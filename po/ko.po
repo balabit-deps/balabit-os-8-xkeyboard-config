@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config 2.28.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2020-01-31 00:30+0000\n"
+"POT-Creation-Date: 2020-01-25 00:19+0000\n"
 "PO-Revision-Date: 2020-01-27 13:51+0900\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <translation-team-ko@googlegroups.com>\n"
@@ -787,12 +787,8 @@ msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
 msgstr "Truly Ergonomic Computer Keyboard 모델 227 (긴 Alt 키)"
 
 #: rules/base.xml:1329
-msgid ""
-"Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
-"additional Super and Menu key)"
-msgstr ""
-"Truly Ergonomic Computer Keyboard 모델 229 (표준 크기 Alt 키, Super 및 Menu "
-"키 추가)"
+msgid "Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)"
+msgstr "Truly Ergonomic Computer Keyboard 모델 229 (표준 크기 Alt 키, Super 및 Menu 키 추가)"
 
 #. Keyboard indicator for English layouts
 #. Keyboard indicator for Australian layouts
@@ -3719,10 +3715,8 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "메뉴 키 (누르고 있는 동안), 메뉴는 Shift+메뉴"
 
 #: rules/base.xml:6369
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
-msgstr ""
-"Caps Lock (누르고 있는 동안), Alt+Caps Lock을 누르면 원래 Caps Lock 기능"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgstr "Caps Lock (누르고 있는 동안), Alt+Caps Lock을 누르면 원래 Caps Lock 기능"
 
 #: rules/base.xml:6375
 msgid "Right Ctrl (while pressed)"
@@ -3839,8 +3833,7 @@ msgstr "Scroll Lock"
 
 #: rules/base.xml:6543
 msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
-msgstr ""
-"왼쪽 Ctrl+왼쪽 윈도우 키는 1번 배치로, 오른쪽 Ctrl+메뉴 키는 2번 배치로"
+msgstr "왼쪽 Ctrl+왼쪽 윈도우 키는 1번 배치로, 오른쪽 Ctrl+메뉴 키는 2번 배치로"
 
 #: rules/base.xml:6549
 msgid "Left Ctrl+Left Win"
@@ -3879,21 +3872,15 @@ msgid "&lt;Less/Greater&gt;"
 msgstr "&lt; 및 &gt;"
 
 #: rules/base.xml:6647
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
 msgstr "Caps Lock, 다른 3번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:6653
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
 msgstr "백슬래시, 다른 3번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:6659
-msgid ""
-"&lt;Less/Greater&gt;; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
+msgid "&lt;Less/Greater&gt;; acts as onetime lock when pressed together with another 3rd level chooser"
 msgstr "&lt; 및 &gt;, 다른 3번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:6667
@@ -3946,8 +3933,7 @@ msgstr "오른쪽 윈도우 키와 오른쪽 Ctrl 뒤바꾸기"
 
 #: rules/base.xml:6737
 msgid "Left Alt as Ctrl, Left Ctrl as Win, Left Win as Left Alt"
-msgstr ""
-"왼쪽 Alt를 Ctrl로, 왼쪽 Ctrl을 윈도우 키로, 왼쪽 윈도우 키를 왼쪽 Alt로"
+msgstr "왼쪽 Alt를 Ctrl로, 왼쪽 Ctrl을 윈도우 키로, 왼쪽 윈도우 키를 왼쪽 Alt로"
 
 #: rules/base.xml:6745
 msgid "Use keyboard LED to show alternative layout"
@@ -3978,9 +3964,7 @@ msgid "Unicode additions (arrows and math operators)"
 msgstr "유니코드 추가 (화살표 및 수학 기호)"
 
 #: rules/base.xml:6800
-msgid ""
-"Unicode additions (arrows and math operators; math operators on default "
-"level)"
+msgid "Unicode additions (arrows and math operators; math operators on default level)"
 msgstr "유니코드 추가 (화살표 및 수학 기호, 수학 기호를 기본 단계에)"
 
 #: rules/base.xml:6806
@@ -3992,11 +3976,8 @@ msgid "Wang 724 keypad with Unicode additions (arrows and math operators)"
 msgstr "Wang 724 키패드, 유니코드 추가 (화살표 및 수학 기호)"
 
 #: rules/base.xml:6818
-msgid ""
-"Wang 724 keypad with Unicode additions (arrows and math operators; math "
-"operators on default level)"
-msgstr ""
-"Wang 724 키패드, 유니코드 추가 (화살표 및 수학 기호, 수학 기호를 기본 단계에)"
+msgid "Wang 724 keypad with Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Wang 724 키패드, 유니코드 추가 (화살표 및 수학 기호, 수학 기호를 기본 단계에)"
 
 #: rules/base.xml:6824
 msgid "Hexadecimal"
@@ -4060,13 +4041,11 @@ msgstr "Caps Lock이 내부 대문자 기능 사용, Shift가 Caps Lock 상태�
 
 #: rules/base.xml:6917
 msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Caps Lock이 Shift처럼 동작하고 상태 고정, Shift가 Caps Lock을 \"일시 중지\""
+msgstr "Caps Lock이 Shift처럼 동작하고 상태 고정, Shift가 Caps Lock을 \"일시 중지\""
 
 #: rules/base.xml:6923
 msgid "Caps Lock acts as Shift with locking; Shift does not affect Caps Lock"
-msgstr ""
-"Caps Lock이 Shift처럼 동작하고 상태 고정, Shift가 Caps Lock 상태에 영향 없음"
+msgstr "Caps Lock이 Shift처럼 동작하고 상태 고정, Shift가 Caps Lock 상태에 영향 없음"
 
 #: rules/base.xml:6929
 msgid "Caps Lock toggles normal capitalization of alphabetic characters"
@@ -4085,12 +4064,8 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "Caps Lock을 추가 Esc로 사용"
 
 #: rules/base.xml:6953
-msgid ""
-"Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves "
-"like regular Caps Lock"
-msgstr ""
-"일반 Caps Lock을 추가 Esc로 만들고, Shift + Caps Lock을 일반 Caps Lock처럼 동"
-"작"
+msgid "Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves like regular Caps Lock"
+msgstr "일반 Caps Lock을 추가 Esc로 만들고, Shift + Caps Lock을 일반 Caps Lock처럼 동작"
 
 #: rules/base.xml:6959
 msgid "Make Caps Lock an additional Backspace"
@@ -4229,12 +4204,8 @@ msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "숫자 키패드 키가 항상 숫자를 입력 (맥 OS처럼 동작)"
 
 #: rules/base.xml:7219
-msgid ""
-"Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in "
-"Windows)"
-msgstr ""
-"NumLock 켜면: 숫자, Shift 누르면 화살표 키, NumLock 끄면: 화살표 키 (MS 윈도"
-"우 방식)"
+msgid "Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in Windows)"
+msgstr "NumLock 켜면: 숫자, Shift 누르면 화살표 키, NumLock 끄면: 화살표 키 (MS 윈도우 방식)"
 
 #: rules/base.xml:7225
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
@@ -4317,35 +4288,20 @@ msgid "Right Alt chooses 5th level"
 msgstr "오른쪽 Alt로 5번째 단계 선택"
 
 #: rules/base.xml:7346
-msgid ""
-"&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed "
-"together with another 5th level chooser"
-msgstr ""
-"&lt; 및 &gt; 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일"
-"시 고정"
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "&lt; 및 &gt; 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:7352
-msgid ""
-"Right Alt chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"오른쪽 Alt로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 고정"
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "오른쪽 Alt로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:7358
-msgid ""
-"Left Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"왼쪽 윈도우 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 "
-"고정"
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "왼쪽 윈도우 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:7364
-msgid ""
-"Right Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"오른쪽 윈도우 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일"
-"시 고정"
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "오른쪽 윈도우 키로 5번째 단계 선택, 다른 5번째 단계 선택 키와 같이 누르면 일시 고정"
 
 #: rules/base.xml:7410
 msgid "Using space key to input non-breaking space"
@@ -4368,8 +4324,7 @@ msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "3번째 단계에서 강제 공백 문자, 4번째에서는 출력 없음"
 
 #: rules/base.xml:7439
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
 msgstr "3번째 단계에서 강제 공백 문자, 4번째에서는 얇은 강제 공백 문자"
 
 #: rules/base.xml:7445
@@ -4377,67 +4332,43 @@ msgid "Non-breaking space at the 4th level"
 msgstr "3번째 단계에서 강제 공백 문자"
 
 #: rules/base.xml:7451
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
 msgstr "4번째 단계에서 강제 공백 문자, 6번째에서는 얇은 강제 공백 문자"
 
 #: rules/base.xml:7457
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"4번째 단계에서 강제 공백 문자, 6번째 단계에서 얇은 강제 공백 문자 (Ctrl"
-"+Shift 사용)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "4번째 단계에서 강제 공백 문자, 6번째 단계에서 얇은 강제 공백 문자 (Ctrl+Shift 사용)"
 
 #: rules/base.xml:7463
 msgid "Zero-width non-joiner at the 2nd level"
 msgstr "2번째 단계에서 폭 없는 연결 금지 문자"
 
 #: rules/base.xml:7469
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
 msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 폭 없는 연결 문자"
 
 #: rules/base.xml:7475
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 폭 없는 연결 문자, 4번째에"
-"서는 강제 공백 문자"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 폭 없는 연결 문자, 4번째에서는 강제 공백 문자"
 
 #: rules/base.xml:7481
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
 msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자"
 
 #: rules/base.xml:7487
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서"
-"는 없음"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서는 없음"
 
 #: rules/base.xml:7493
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서"
-"는 폭 없는 연결 문자"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서는 폭 없는 연결 문자"
 
 #: rules/base.xml:7499
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서"
-"는 얇은 강제 공백 문자"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "2번째 단계에서 폭 없는 연결 금지 문자, 3번째에서는 강제 공백 문자, 4번째에서는 얇은 강제 공백 문자"
 
 #: rules/base.xml:7505
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
 msgstr "3번째 단계에서 폭 없는 연결 금지 문자, 4번째에서는 폭 없는 연결 문자"
 
 #: rules/base.xml:7512
@@ -4846,15 +4777,11 @@ msgid "Arabic (Sun Type 6/7)"
 msgstr "아랍어 (썬 타입 6/7)"
 
 #: rules/base.extras.xml:747
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and European "
-"digits preferred)"
+msgid "Arabic (with extensions for Arabic-written other languages and European digits preferred)"
 msgstr "아랍어 (아랍어로 쓰인 다른 언어 확장 포함, 유럽식 숫자 선호)"
 
 #: rules/base.extras.xml:753
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and Arabic digits "
-"preferred)"
+msgid "Arabic (with extensions for Arabic-written other languages and Arabic digits preferred)"
 msgstr "아랍어 (아랍어로 쓰인 다른 언어 확장 포함, 아랍식 숫자 선호)"
 
 #: rules/base.extras.xml:759

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config 2.28.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2020-01-31 00:30+0000\n"
+"POT-Creation-Date: 2020-01-25 00:19+0000\n"
 "PO-Revision-Date: 2020-01-26 17:12+0300\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
@@ -773,12 +773,8 @@ msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
 msgstr "Gerçekten Ergonomik Bilgisayar Klavye Modeli 227 (Geniş Alt tuşları)"
 
 #: rules/base.xml:1329
-msgid ""
-"Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
-"additional Super and Menu key)"
-msgstr ""
-"Gerçekten Ergonomik Bilgisayar Klavye Modeli 229 (Standart boyutlu Alt "
-"tuşları, ek Süper ve Menü tuşu)"
+msgid "Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)"
+msgstr "Gerçekten Ergonomik Bilgisayar Klavye Modeli 229 (Standart boyutlu Alt tuşları, ek Süper ve Menü tuşu)"
 
 #. Keyboard indicator for English layouts
 #. Keyboard indicator for Australian layouts
@@ -3655,8 +3651,7 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "Menü (basıldığında), Menü için Shift+Menü"
 
 #: rules/base.xml:6369
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
 msgstr "Caps Lock (basılı iken), özgün Caps Lock eylemi için Alt+Caps Lock"
 
 #: rules/base.xml:6375
@@ -3813,28 +3808,16 @@ msgid "&lt;Less/Greater&gt;"
 msgstr "&lt;Büyük/Küçük&gt;"
 
 #: rules/base.xml:6647
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
-msgstr ""
-"Caps Lock; diğer 3. düzey seçici ile birlikte basılıyken, bir kereliğine "
-"kilit olarak çalışır"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
+msgstr "Caps Lock; diğer 3. düzey seçici ile birlikte basılıyken, bir kereliğine kilit olarak çalışır"
 
 #: rules/base.xml:6653
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
-msgstr ""
-"Ters Bölü; diğer 3. düzey seçici ile birlikte basılıyken, bir kereliğine "
-"kilit olarak çalışır"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "Ters Bölü; diğer 3. düzey seçici ile birlikte basılıyken, bir kereliğine kilit olarak çalışır"
 
 #: rules/base.xml:6659
-msgid ""
-"&lt;Less/Greater&gt;; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
-msgstr ""
-"&lt;Büyük/Küçük&gt;; diğer 3. düzey seçici ile birlikte basılıyken, bir "
-"kereliğine kilit olarak çalışır"
+msgid "&lt;Less/Greater&gt;; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "&lt;Büyük/Küçük&gt;; diğer 3. düzey seçici ile birlikte basılıyken, bir kereliğine kilit olarak çalışır"
 
 #: rules/base.xml:6667
 msgid "Ctrl position"
@@ -3917,12 +3900,8 @@ msgid "Unicode additions (arrows and math operators)"
 msgstr "Unicode ekletileri (oklar ve matematik işlemleri)"
 
 #: rules/base.xml:6800
-msgid ""
-"Unicode additions (arrows and math operators; math operators on default "
-"level)"
-msgstr ""
-"Unicode eklentileri (oklar ve matematik işlemleri; varsayılan düzeyde "
-"matematik işlemleri)"
+msgid "Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Unicode eklentileri (oklar ve matematik işlemleri; varsayılan düzeyde matematik işlemleri)"
 
 #: rules/base.xml:6806
 msgid "Legacy Wang 724"
@@ -3930,16 +3909,11 @@ msgstr "Eski Wang 724"
 
 #: rules/base.xml:6812
 msgid "Wang 724 keypad with Unicode additions (arrows and math operators)"
-msgstr ""
-"Unicode eklentileri ile Wang 724 tuştakımı (oklar ve matematik işlemleri)"
+msgstr "Unicode eklentileri ile Wang 724 tuştakımı (oklar ve matematik işlemleri)"
 
 #: rules/base.xml:6818
-msgid ""
-"Wang 724 keypad with Unicode additions (arrows and math operators; math "
-"operators on default level)"
-msgstr ""
-"Unicode eklentileri ile Wang 724 tuştakımı (oklar ve matematik işlemleri; "
-"varsayılan düzeyde matematik işlemleri)"
+msgid "Wang 724 keypad with Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Unicode eklentileri ile Wang 724 tuştakımı (oklar ve matematik işlemleri; varsayılan düzeyde matematik işlemleri)"
 
 #: rules/base.xml:6824
 msgid "Hexadecimal"
@@ -3994,27 +3968,19 @@ msgstr "Caps Lock davranışı"
 
 #: rules/base.xml:6905
 msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Caps Lock dahili dönüşümü kullanılır, Shift tuşu Caps Lock tuşunu \"bekletir"
-"\""
+msgstr "Caps Lock dahili dönüşümü kullanılır, Shift tuşu Caps Lock tuşunu \"bekletir\""
 
 #: rules/base.xml:6911
 msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
-msgstr ""
-"Caps Lock dahili dönüşümü kullanır; Shift tuşu Caps Lock davranışını "
-"etkilemez"
+msgstr "Caps Lock dahili dönüşümü kullanır; Shift tuşu Caps Lock davranışını etkilemez"
 
 #: rules/base.xml:6917
 msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Caps Lock kilitlemeli Shift tuşu gibi çalışır; Shift tuşu ise Caps Lock "
-"tuşunu \"bekletir\""
+msgstr "Caps Lock kilitlemeli Shift tuşu gibi çalışır; Shift tuşu ise Caps Lock tuşunu \"bekletir\""
 
 #: rules/base.xml:6923
 msgid "Caps Lock acts as Shift with locking; Shift does not affect Caps Lock"
-msgstr ""
-"Caps Lock kilitlemeli Shift gibi çalışır; Shift, Caps Lock davranışını "
-"etkilemez"
+msgstr "Caps Lock kilitlemeli Shift gibi çalışır; Shift, Caps Lock davranışını etkilemez"
 
 #: rules/base.xml:6929
 msgid "Caps Lock toggles normal capitalization of alphabetic characters"
@@ -4033,12 +3999,8 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "Caps Lock'u ek bir ESC yap"
 
 #: rules/base.xml:6953
-msgid ""
-"Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves "
-"like regular Caps Lock"
-msgstr ""
-"Değiştirilmemiş Caps Lock tuşunu ek Esc tuşu yap, ancak Shift + Caps Lock "
-"sıradan Caps Lock olarak davranır"
+msgid "Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves like regular Caps Lock"
+msgstr "Değiştirilmemiş Caps Lock tuşunu ek Esc tuşu yap, ancak Shift + Caps Lock sıradan Caps Lock olarak davranır"
 
 #: rules/base.xml:6959
 msgid "Make Caps Lock an additional Backspace"
@@ -4177,12 +4139,8 @@ msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "Sayısal tuş takımı her zaman sayı girer (macOS'ta olduğu gibi)"
 
 #: rules/base.xml:7219
-msgid ""
-"Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in "
-"Windows)"
-msgstr ""
-"NumLock açık: rakamlar; Yön tuşları için Shift. Numlock kapalı: her zaman "
-"yön tuşları (Windows'taki gibi)"
+msgid "Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in Windows)"
+msgstr "NumLock açık: rakamlar; Yön tuşları için Shift. Numlock kapalı: her zaman yön tuşları (Windows'taki gibi)"
 
 #: rules/base.xml:7225
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
@@ -4194,8 +4152,7 @@ msgstr "Bir sunucuda elde edilen özel tuşlar (Ctrl+Alt+&lt;tuş&gt;)"
 
 #: rules/base.xml:7237
 msgid "Apple Aluminium: emulate PC keys (PrtSc, Scroll Lock, Pause, Num Lock)"
-msgstr ""
-"Apple Aluminium: PC tuşlarına benzet (Print, Scroll Lock, Pause, Num Lock)"
+msgstr "Apple Aluminium: PC tuşlarına benzet (Print, Scroll Lock, Pause, Num Lock)"
 
 #: rules/base.xml:7243
 msgid "Shift cancels Caps Lock"
@@ -4266,36 +4223,20 @@ msgid "Right Alt chooses 5th level"
 msgstr "Sağ Alt tuşu 5. düzeyi seçer"
 
 #: rules/base.xml:7346
-msgid ""
-"&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed "
-"together with another 5th level chooser"
-msgstr ""
-"&lt;Büyük/Küçük&gt;, 5. düzeyi seçer; diğer 5. düzey seçici ile birlikte "
-"basılıyken, bir kereliğine kilit olarak çalışır"
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "&lt;Büyük/Küçük&gt;, 5. düzeyi seçer; diğer 5. düzey seçici ile birlikte basılıyken, bir kereliğine kilit olarak çalışır"
 
 #: rules/base.xml:7352
-msgid ""
-"Right Alt chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Sağ Alt, 5. düzeyi seçer; diğer 5. düzey seçici ile basılıyken bir "
-"kereliğine kilit olarak çalışır"
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Sağ Alt, 5. düzeyi seçer; diğer 5. düzey seçici ile basılıyken bir kereliğine kilit olarak çalışır"
 
 #: rules/base.xml:7358
-msgid ""
-"Left Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Sol Win, 5. düzeyi seçer; diğer 5. düzey seçici ile basılıyken bir "
-"kereliğine kilit olarak çalışır"
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Sol Win, 5. düzeyi seçer; diğer 5. düzey seçici ile basılıyken bir kereliğine kilit olarak çalışır"
 
 #: rules/base.xml:7364
-msgid ""
-"Right Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Sağ Win, 5. düzeyi seçer; diğer 5. düzey seçici ile basılıyken bir "
-"kereliğine kilit olarak çalışır"
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Sağ Win, 5. düzeyi seçer; diğer 5. düzey seçici ile basılıyken bir kereliğine kilit olarak çalışır"
 
 #: rules/base.xml:7410
 msgid "Using space key to input non-breaking space"
@@ -4318,8 +4259,7 @@ msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "3. düzeyde bölünemez boşluk, 4. düzeyde bir şey yok"
 
 #: rules/base.xml:7439
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
 msgstr "3. düzeyde bölünemez boşluk, 4. düzeyde ince bölünemez boşluk"
 
 #: rules/base.xml:7445
@@ -4327,70 +4267,44 @@ msgid "Non-breaking space at the 4th level"
 msgstr "4. düzeyde bölünemez boşluk"
 
 #: rules/base.xml:7451
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
 msgstr "4. düzeyde bölünemez boşluk, 6. düzeyde ince bölünemez boşluk"
 
 #: rules/base.xml:7457
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"4. düzeyde bölünemez boşluk, 6. düzeyde ince bölünemez boşluk (Ctrl+Shift "
-"yoluyla)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "4. düzeyde bölünemez boşluk, 6. düzeyde ince bölünemez boşluk (Ctrl+Shift yoluyla)"
 
 #: rules/base.xml:7463
 msgid "Zero-width non-joiner at the 2nd level"
 msgstr "2. düzeyde sıfır genişlik ayırıcı"
 
 #: rules/base.xml:7469
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
-msgstr ""
-"2. düzeyde sıfır genişlik ayırıcı, 3. düzeyde sıfır genişlik birleştirici"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgstr "2. düzeyde sıfır genişlik ayırıcı, 3. düzeyde sıfır genişlik birleştirici"
 
 #: rules/base.xml:7475
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"2. düzeyde sıfır genişlik ayırıcı, 3. düzeyde sıfır genişlik birleştirici, "
-"4. düzeyde bölünemez boşluk"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "2. düzeyde sıfır genişlik ayırıcı, 3. düzeyde sıfır genişlik birleştirici, 4. düzeyde bölünemez boşluk"
 
 #: rules/base.xml:7481
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
 msgstr "2. düzeyde sıfır genişlik ayırıcı, 3. düzeyde bölünemez boşluk"
 
 #: rules/base.xml:7487
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"2. düzeyde sıfır genişlik ayırıcı, 3. düzeyde bölünemez boşluk, 4. düzeyde "
-"bir şey yok"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "2. düzeyde sıfır genişlik ayırıcı, 3. düzeyde bölünemez boşluk, 4. düzeyde bir şey yok"
 
 #: rules/base.xml:7493
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"2. düzeyde sıfır genişlik ayırıcı, 3. düzeyde bölünemez boşluk, 4. düzeyde "
-"sıfır genişlik birleştirici"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "2. düzeyde sıfır genişlik ayırıcı, 3. düzeyde bölünemez boşluk, 4. düzeyde sıfır genişlik birleştirici"
 
 #: rules/base.xml:7499
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"2. düzeyde sıfır genişlik ayırıcı, 3. düzeyde bölünemez boşluk, 4. düzeyde "
-"ince bölünemez boşluk"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "2. düzeyde sıfır genişlik ayırıcı, 3. düzeyde bölünemez boşluk, 4. düzeyde ince bölünemez boşluk"
 
 #: rules/base.xml:7505
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
-msgstr ""
-"3. düzeyde sıfır genişlik ayırıcı, 4. düzeyde sıfır genişlik birleştirici"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgstr "3. düzeyde sıfır genişlik ayırıcı, 4. düzeyde sıfır genişlik birleştirici"
 
 #: rules/base.xml:7512
 msgid "Japanese keyboard options"
@@ -4706,8 +4620,7 @@ msgstr "İngilizce (Carpalx, tam optimizasyon, uluslararası, ölü tuşlarla)"
 
 #: rules/base.extras.xml:447
 msgid "English (Carpalx, full optimization, intl., with AltGr dead keys)"
-msgstr ""
-"İngilizce (Carpalx, tam optimizasyon, uluslararası, AltGr ölü tuşlarla)"
+msgstr "İngilizce (Carpalx, tam optimizasyon, uluslararası, AltGr ölü tuşlarla)"
 
 #: rules/base.extras.xml:453
 msgid "English (3l)"
@@ -4794,20 +4707,12 @@ msgid "Arabic (Sun Type 6/7)"
 msgstr "Arapça (Sun 6/7 Tipi)"
 
 #: rules/base.extras.xml:747
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and European "
-"digits preferred)"
-msgstr ""
-"Arapça (Arap harfleriyle yazılan diğer diller için eklentiler ve Avrupa "
-"rakamlarıyla birlikte)"
+msgid "Arabic (with extensions for Arabic-written other languages and European digits preferred)"
+msgstr "Arapça (Arap harfleriyle yazılan diğer diller için eklentiler ve Avrupa rakamlarıyla birlikte)"
 
 #: rules/base.extras.xml:753
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and Arabic digits "
-"preferred)"
-msgstr ""
-"Arapça (Arap harfleriyle yazılan diğer diller için eklentiler ve Arap "
-"rakamlarıyla birlikte)"
+msgid "Arabic (with extensions for Arabic-written other languages and Arabic digits preferred)"
+msgstr "Arapça (Arap harfleriyle yazılan diğer diller için eklentiler ve Arap rakamlarıyla birlikte)"
 
 #: rules/base.extras.xml:759
 msgid "Ugaritic instead of Arabic"

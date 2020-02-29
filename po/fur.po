@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config-2.28.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2020-01-31 00:30+0000\n"
+"POT-Creation-Date: 2020-01-25 00:19+0000\n"
 "PO-Revision-Date: 2020-01-28 18:57+0100\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <f.t.public@gmail.com>\n"
@@ -768,12 +768,8 @@ msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
 msgstr "Tastiere di computer pardabon ergonomiche Model 227 (tascj Alt larcs)"
 
 #: rules/base.xml:1329
-msgid ""
-"Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
-"additional Super and Menu key)"
-msgstr ""
-"Tastiere di computer pardabon ergonomiche Model 229 (tascj Alt di dimension "
-"standard, tascj Super e Menù adizionâi)"
+msgid "Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)"
+msgstr "Tastiere di computer pardabon ergonomiche Model 229 (tascj Alt di dimension standard, tascj Super e Menù adizionâi)"
 
 #. Keyboard indicator for English layouts
 #. Keyboard indicator for Australian layouts
@@ -3650,11 +3646,8 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "Tast Menù (fracât), Maiusc+Menù par Menù"
 
 #: rules/base.xml:6369
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
-msgstr ""
-"BlocMaiusc (intant che si frache), Alt+BlocMaiusc pe azion origjinarie di "
-"BlocMaiusc"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgstr "BlocMaiusc (intant che si frache), Alt+BlocMaiusc pe azion origjinarie di BlocMaiusc"
 
 #: rules/base.xml:6375
 msgid "Right Ctrl (while pressed)"
@@ -3679,13 +3672,11 @@ msgstr "Maiusc+BlocMaiusc"
 
 #: rules/base.xml:6405
 msgid "Caps Lock to first layout; Shift+Caps Lock to last layout"
-msgstr ""
-"BlocMaiusc ae prime disposizion; Maiusc+BlocMaiusc ae ultime disposizion"
+msgstr "BlocMaiusc ae prime disposizion; Maiusc+BlocMaiusc ae ultime disposizion"
 
 #: rules/base.xml:6411
 msgid "Left Win to first layout; Right Win/Menu to last layout"
-msgstr ""
-"Win a çampe ae prime disposizion; Win diestri/Menù ae ultime disposizion"
+msgstr "Win a çampe ae prime disposizion; Win diestri/Menù ae ultime disposizion"
 
 #: rules/base.xml:6417
 msgid "Left Ctrl to first layout; Right Ctrl to last layout"
@@ -3773,9 +3764,7 @@ msgstr "BlocScor"
 
 #: rules/base.xml:6543
 msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
-msgstr ""
-"Ctrl a çampe+Win a çampe ae prime disposizion; Ctrl diestri+Menù ae seconde "
-"disposizion"
+msgstr "Ctrl a çampe+Win a çampe ae prime disposizion; Ctrl diestri+Menù ae seconde disposizion"
 
 #: rules/base.xml:6549
 msgid "Left Ctrl+Left Win"
@@ -3814,28 +3803,16 @@ msgid "&lt;Less/Greater&gt;"
 msgstr "&lt;Mancul di/Plui grant di&gt;"
 
 #: rules/base.xml:6647
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
-msgstr ""
-"BlocMaiusc; al agjìs come bloc par une volte sole cuant che si frache adun "
-"cuntun altri seletôr di tierç nivel"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
+msgstr "BlocMaiusc; al agjìs come bloc par une volte sole cuant che si frache adun cuntun altri seletôr di tierç nivel"
 
 #: rules/base.xml:6653
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
-msgstr ""
-"Sbare invierse; cuant che e ven fracade adun cuntun altri seletôr di tierç "
-"nivel, e agjìs come bloc par une volte"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "Sbare invierse; cuant che e ven fracade adun cuntun altri seletôr di tierç nivel, e agjìs come bloc par une volte"
 
 #: rules/base.xml:6659
-msgid ""
-"&lt;Less/Greater&gt;; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
-msgstr ""
-"&lt;Mancul di/Plui grant di&gt;; al agjìs come bloc par une volte sole cuant "
-"che si frache adun cuntun altri seletôr di tierç nivel"
+msgid "&lt;Less/Greater&gt;; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "&lt;Mancul di/Plui grant di&gt;; al agjìs come bloc par une volte sole cuant che si frache adun cuntun altri seletôr di tierç nivel"
 
 #: rules/base.xml:6667
 msgid "Ctrl position"
@@ -3887,8 +3864,7 @@ msgstr "Scambiâ Win diestri cun Ctrl diestri"
 
 #: rules/base.xml:6737
 msgid "Left Alt as Ctrl, Left Ctrl as Win, Left Win as Left Alt"
-msgstr ""
-"Alt a çampe come Ctrl, Ctrl a çampe come Win, Win a çampe come Alt a çampe"
+msgstr "Alt a çampe come Ctrl, Ctrl a çampe come Win, Win a çampe come Alt a çampe"
 
 #: rules/base.xml:6745
 msgid "Use keyboard LED to show alternative layout"
@@ -3919,12 +3895,8 @@ msgid "Unicode additions (arrows and math operators)"
 msgstr "Zontis Unicode (frecis e operadôrs matematics)"
 
 #: rules/base.xml:6800
-msgid ""
-"Unicode additions (arrows and math operators; math operators on default "
-"level)"
-msgstr ""
-"Zontis Unicode (frecis e operadôrs matematics; operadôrs matematics sul "
-"nivel predefinît)"
+msgid "Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Zontis Unicode (frecis e operadôrs matematics; operadôrs matematics sul nivel predefinît)"
 
 #: rules/base.xml:6806
 msgid "Legacy Wang 724"
@@ -3935,12 +3907,8 @@ msgid "Wang 724 keypad with Unicode additions (arrows and math operators)"
 msgstr "Tastierute Wang 724 cun zontis Unicode (frecis e operadôrs matematics)"
 
 #: rules/base.xml:6818
-msgid ""
-"Wang 724 keypad with Unicode additions (arrows and math operators; math "
-"operators on default level)"
-msgstr ""
-"Tastierute Wang 724 cun zontis Unicode (frecis e operadôrs matematics; "
-"operadôrs matematics sul nivel predefinît)"
+msgid "Wang 724 keypad with Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Tastierute Wang 724 cun zontis Unicode (frecis e operadôrs matematics; operadôrs matematics sul nivel predefinît)"
 
 #: rules/base.xml:6824
 msgid "Hexadecimal"
@@ -3995,31 +3963,23 @@ msgstr "Compuartament BlocMaiusc"
 
 #: rules/base.xml:6905
 msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
-msgstr ""
-"BlocMaiusc al fâs ûs interni des letaris maiusculis. Maiusc al met in "
-"“pause” BlocMaiusc"
+msgstr "BlocMaiusc al fâs ûs interni des letaris maiusculis. Maiusc al met in “pause” BlocMaiusc"
 
 #: rules/base.xml:6911
 msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
-msgstr ""
-"BlocMaiusc al fâs ûs des letaris maiusculis internis; Maiusc nol à efiet su "
-"BlocMaiusc"
+msgstr "BlocMaiusc al fâs ûs des letaris maiusculis internis; Maiusc nol à efiet su BlocMaiusc"
 
 #: rules/base.xml:6917
 msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
-msgstr ""
-"BlocMaiusc al agjìs come Maiusc cul bloc; Maiusc al met in “pause” BlocMaiusc"
+msgstr "BlocMaiusc al agjìs come Maiusc cul bloc; Maiusc al met in “pause” BlocMaiusc"
 
 #: rules/base.xml:6923
 msgid "Caps Lock acts as Shift with locking; Shift does not affect Caps Lock"
-msgstr ""
-"BlocMaiusc al agjìs come Maiusc cul bloc; Maiusc nol influence BlocMaiusc"
+msgstr "BlocMaiusc al agjìs come Maiusc cul bloc; Maiusc nol influence BlocMaiusc"
 
 #: rules/base.xml:6929
 msgid "Caps Lock toggles normal capitalization of alphabetic characters"
-msgstr ""
-"BlocMaiusc al comute l'ûs normâl des letaris maiusculis dai caratars "
-"alfabetics"
+msgstr "BlocMaiusc al comute l'ûs normâl des letaris maiusculis dai caratars alfabetics"
 
 #: rules/base.xml:6935
 msgid "Caps Lock toggles ShiftLock (affects all keys)"
@@ -4034,9 +3994,7 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "Fâs deventâ BlocMaiusc un Esc in plui"
 
 #: rules/base.xml:6953
-msgid ""
-"Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves "
-"like regular Caps Lock"
+msgid "Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves like regular Caps Lock"
 msgstr ""
 
 #: rules/base.xml:6959
@@ -4176,12 +4134,8 @@ msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "La tastierute numeriche e inserìs simpri cifris (come in macOS)"
 
 #: rules/base.xml:7219
-msgid ""
-"Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in "
-"Windows)"
-msgstr ""
-"BlocNum impiât: cifris; Maiusc pai tascj di direzion. BlocNum distudât: "
-"tascj di direzion (come in Windows)"
+msgid "Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in Windows)"
+msgstr "BlocNum impiât: cifris; Maiusc pai tascj di direzion. BlocNum distudât: tascj di direzion (come in Windows)"
 
 #: rules/base.xml:7225
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
@@ -4209,8 +4163,7 @@ msgstr "Ducj i doi i Maiusc adun a abilitin BlocMaiusc"
 
 #: rules/base.xml:7261
 msgid "Both Shift together enable Caps Lock; one Shift key disables it"
-msgstr ""
-"Ducj i doi i Maiusc adun a abilitin BlocMaiusc; un tast Maiusc lu disabilite"
+msgstr "Ducj i doi i Maiusc adun a abilitin BlocMaiusc; un tast Maiusc lu disabilite"
 
 #: rules/base.xml:7267
 msgid "Both Shift together enable Shift Lock"
@@ -4222,9 +4175,7 @@ msgstr "Maiusc + BlocNum al abilite i tascj di direzion"
 
 #: rules/base.xml:7279
 msgid "Allow breaking grabs with keyboard actions (warning: security risk)"
-msgstr ""
-"Permet di interompi la cature cun lis azions di tastiere (atenzion: pericul "
-"di sigurece)"
+msgstr "Permet di interompi la cature cun lis azions di tastiere (atenzion: pericul di sigurece)"
 
 #: rules/base.xml:7285
 msgid "Allow grab and window tree logging"
@@ -4267,37 +4218,20 @@ msgid "Right Alt chooses 5th level"
 msgstr "Il Alt diestri al sielç il cuint nivel"
 
 #: rules/base.xml:7346
-msgid ""
-"&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed "
-"together with another 5th level chooser"
-msgstr ""
-"&lt;Mancul di/Plui grant di&gt; al sielç il cuint nivel; al agjìs come un "
-"bloc par une volte sole cuant che si frache adun cuntun altri seletôr di "
-"cuint nivel"
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "&lt;Mancul di/Plui grant di&gt; al sielç il cuint nivel; al agjìs come un bloc par une volte sole cuant che si frache adun cuntun altri seletôr di cuint nivel"
 
 #: rules/base.xml:7352
-msgid ""
-"Right Alt chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Alt diestri al sielç il cuint nivel; cuant che al ven fracât adun cuntun "
-"altri seletôr di cuint nivel, al agjìs come bloc par une volte"
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Alt diestri al sielç il cuint nivel; cuant che al ven fracât adun cuntun altri seletôr di cuint nivel, al agjìs come bloc par une volte"
 
 #: rules/base.xml:7358
-msgid ""
-"Left Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Win a çampe al sielç il cuint nivel; al agjìs come bloc par une volte cuant "
-"che al ven fracât adun cuntun altri seletôr di cuint nivel"
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Win a çampe al sielç il cuint nivel; al agjìs come bloc par une volte cuant che al ven fracât adun cuntun altri seletôr di cuint nivel"
 
 #: rules/base.xml:7364
-msgid ""
-"Right Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Win diestri al sielç il cuint nivel; al agjìs come bloc par une volte cuant "
-"che al ven fracât adun cuntun altri seletôr di cuint nivel"
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Win diestri al sielç il cuint nivel; al agjìs come bloc par une volte cuant che al ven fracât adun cuntun altri seletôr di cuint nivel"
 
 #: rules/base.xml:7410
 msgid "Using space key to input non-breaking space"
@@ -4320,84 +4254,52 @@ msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "Caratar di spazi no separabil al tierç nivel, nuie al cuart nivel"
 
 #: rules/base.xml:7439
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
-msgstr ""
-"Caratar di spazi no separabil al tierç nivel, caratar di spazi stret no "
-"separabil al cuart nivel"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Caratar di spazi no separabil al tierç nivel, caratar di spazi stret no separabil al cuart nivel"
 
 #: rules/base.xml:7445
 msgid "Non-breaking space at the 4th level"
 msgstr "Spazi no separabil al cuart nivel"
 
 #: rules/base.xml:7451
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
-msgstr ""
-"Spazi no separabil al cuart nivel, spazi stret no separabil al sest nivel"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgstr "Spazi no separabil al cuart nivel, spazi stret no separabil al sest nivel"
 
 #: rules/base.xml:7457
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"Spazi no separabil al cuart nivel, spazi stret no separabil al sest nivel "
-"(vie Ctrl+Maiusc)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "Spazi no separabil al cuart nivel, spazi stret no separabil al sest nivel (vie Ctrl+Maiusc)"
 
 #: rules/base.xml:7463
 msgid "Zero-width non-joiner at the 2nd level"
 msgstr "No-union a largjece nule al secont nivel"
 
 #: rules/base.xml:7469
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
-msgstr ""
-"No-union a largjece nule al secont nivel, union a largjece nule al tierç "
-"nivel"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgstr "No-union a largjece nule al secont nivel, union a largjece nule al tierç nivel"
 
 #: rules/base.xml:7475
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"No-union a largjece nule al secont nivel, union a largjece nule al tierç "
-"nivel, spazi no separabil al cuart nivel"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "No-union a largjece nule al secont nivel, union a largjece nule al tierç nivel, spazi no separabil al cuart nivel"
 
 #: rules/base.xml:7481
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
-msgstr ""
-"No-union a largjece nule al secont nivel, spazi no separabil al tierç nivel"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgstr "No-union a largjece nule al secont nivel, spazi no separabil al tierç nivel"
 
 #: rules/base.xml:7487
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"No-union a largjece nule al secont nivel, spazi no separabil al tierç nivel, "
-"nuie al cuart nivel"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "No-union a largjece nule al secont nivel, spazi no separabil al tierç nivel, nuie al cuart nivel"
 
 #: rules/base.xml:7493
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"No-union a largjece nule al secont nivel, spazi no separabil al tierç nivel, "
-"union a largjece nule al cuart nivel"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "No-union a largjece nule al secont nivel, spazi no separabil al tierç nivel, union a largjece nule al cuart nivel"
 
 #: rules/base.xml:7499
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"No-union a largjece nule al secont nivel, spazi no separabil al tierç nivel, "
-"spazi stret no separabil al cuart nivel"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "No-union a largjece nule al secont nivel, spazi no separabil al tierç nivel, spazi stret no separabil al cuart nivel"
 
 #: rules/base.xml:7505
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
-msgstr ""
-"No-union a largjece nule al tierç nivel, union a largjece nule al cuart nivel"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgstr "No-union a largjece nule al tierç nivel, union a largjece nule al cuart nivel"
 
 #: rules/base.xml:7512
 msgid "Japanese keyboard options"
@@ -4453,8 +4355,7 @@ msgstr "Al tast corispondent intune disposizion Colemak"
 
 #: rules/base.xml:7590
 msgid "Maintain key compatibility with old Solaris keycodes"
-msgstr ""
-"Manten la compatibilitât dai tascj cun i vecjos codiçs dai tascj di Solaris"
+msgstr "Manten la compatibilitât dai tascj cun i vecjos codiçs dai tascj di Solaris"
 
 #: rules/base.xml:7595
 msgid "Sun Key compatibility"
@@ -4801,20 +4702,12 @@ msgid "Arabic (Sun Type 6/7)"
 msgstr "Arabe (Sun Type 6/7)"
 
 #: rules/base.extras.xml:747
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and European "
-"digits preferred)"
-msgstr ""
-"Arabe (cun estensions par altris lenghis e cifris europeanis preferidis "
-"scritis in arap)"
+msgid "Arabic (with extensions for Arabic-written other languages and European digits preferred)"
+msgstr "Arabe (cun estensions par altris lenghis e cifris europeanis preferidis scritis in arap)"
 
 #: rules/base.extras.xml:753
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and Arabic digits "
-"preferred)"
-msgstr ""
-"Arabe (cun estensions par altris lenghis e cifris arabis preferidis scritis "
-"in arap)"
+msgid "Arabic (with extensions for Arabic-written other languages and Arabic digits preferred)"
+msgstr "Arabe (cun estensions par altris lenghis e cifris arabis preferidis scritis in arap)"
 
 #: rules/base.extras.xml:759
 msgid "Ugaritic instead of Arabic"
@@ -5054,8 +4947,7 @@ msgstr "Scambie cun parentesis cuadris"
 #~ msgstr "Laptop/notebook Compaq tastiere par portatil (eg. Armada)"
 
 #~ msgid "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
-#~ msgstr ""
-#~ "Laptop/notebook Compaq tastiere internet par portatil (eg. Presario)"
+#~ msgstr "Laptop/notebook Compaq tastiere internet par portatil (eg. Presario)"
 
 #~ msgid "Dell Laptop/notebook Inspiron 6xxx/8xxx"
 #~ msgstr "Dell Laptop/notebook Inspiron 6xxx/8xxx"
@@ -5261,29 +5153,17 @@ msgstr "Scambie cun parentesis cuadris"
 #~ msgid "English (Mali, US international)"
 #~ msgstr "Inglese (Mali, US internazionâl)"
 
-#~ msgid ""
-#~ "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with "
-#~ "another 5th-level-chooser"
-#~ msgstr ""
-#~ "&lt;Mancul di/Plui grant di&gt; al sielç il cuint nivel, al bloche cuant "
-#~ "che al ven fracât adun cuntun altri seletôr di cuint nivel"
+#~ msgid "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with another 5th-level-chooser"
+#~ msgstr "&lt;Mancul di/Plui grant di&gt; al sielç il cuint nivel, al bloche cuant che al ven fracât adun cuntun altri seletôr di cuint nivel"
 
 #~ msgid "Non-breakable space character at fourth level"
 #~ msgstr "Caratar di spazi no separabil al cuart nivel"
 
-#~ msgid ""
-#~ "Non-breakable space character at fourth level, thin non-breakable space "
-#~ "character at sixth level"
-#~ msgstr ""
-#~ "Caratar di spazi no separabil al cuart nivel, caratar di spazi stret no "
-#~ "separabil al sest nivel"
+#~ msgid "Non-breakable space character at fourth level, thin non-breakable space character at sixth level"
+#~ msgstr "Caratar di spazi no separabil al cuart nivel, caratar di spazi stret no separabil al sest nivel"
 
-#~ msgid ""
-#~ "Zero-width non-joiner character at second level, zero-width joiner "
-#~ "character at third level"
-#~ msgstr ""
-#~ "Spazi no di union a largjece nule al secont nivel, spazi di union a "
-#~ "largjece nule al tierç nivel"
+#~ msgid "Zero-width non-joiner character at second level, zero-width joiner character at third level"
+#~ msgstr "Spazi no di union a largjece nule al secont nivel, spazi di union a largjece nule al tierç nivel"
 
 #~ msgid "APL keyboard symbols"
 #~ msgstr "Simbui tastiere APL"
@@ -5295,5 +5175,4 @@ msgstr "Scambie cun parentesis cuadris"
 #~ msgstr "Inglese (Carpalx, internazionâl AltGr tascj muarts)"
 
 #~ msgid "English (Carpalx, full optimization, international AltGr dead keys)"
-#~ msgstr ""
-#~ "Inglese (Carpalx, otimizazion plene, internazionâl AltGr tascj muarts)"
+#~ msgstr "Inglese (Carpalx, otimizazion plene, internazionâl AltGr tascj muarts)"

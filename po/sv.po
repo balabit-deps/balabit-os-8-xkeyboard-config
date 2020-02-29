@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config 2.28.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2020-01-31 00:30+0000\n"
+"POT-Creation-Date: 2020-01-25 00:19+0000\n"
 "PO-Revision-Date: 2020-01-26 12:49+0100\n"
 "Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
@@ -769,12 +769,8 @@ msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
 msgstr "Truly Ergonomic Computer Keyboard, modell 227 (breda Alt-tangenter)"
 
 #: rules/base.xml:1329
-msgid ""
-"Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
-"additional Super and Menu key)"
-msgstr ""
-"Truly Ergonomic Computer Keyboard, modell 229 (normalstora Alt-tangenter, "
-"extra Super- och Menytangent)"
+msgid "Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)"
+msgstr "Truly Ergonomic Computer Keyboard, modell 229 (normalstora Alt-tangenter, extra Super- och Menytangent)"
 
 #. Keyboard indicator for English layouts
 #. Keyboard indicator for Australian layouts
@@ -3653,10 +3649,8 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "Meny (då den trycks ned), Skift+Meny för Meny"
 
 #: rules/base.xml:6369
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
-msgstr ""
-"Caps Lock (då den trycks ned), Alt+Caps Lock för ursprunglig Caps Lock-åtgärd"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgstr "Caps Lock (då den trycks ned), Alt+Caps Lock för ursprunglig Caps Lock-åtgärd"
 
 #: rules/base.xml:6375
 msgid "Right Ctrl (while pressed)"
@@ -3773,9 +3767,7 @@ msgstr "Scroll Lock"
 
 #: rules/base.xml:6543
 msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
-msgstr ""
-"Vänster Ctrl+Vänster Win till första layouten; Höger Ctrl+Meny till andra "
-"layouten"
+msgstr "Vänster Ctrl+Vänster Win till första layouten; Höger Ctrl+Meny till andra layouten"
 
 #: rules/base.xml:6549
 msgid "Left Ctrl+Left Win"
@@ -3814,28 +3806,16 @@ msgid "&lt;Less/Greater&gt;"
 msgstr "&lt;Mindre än/Större än&gt;"
 
 #: rules/base.xml:6647
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
-msgstr ""
-"Caps Lock; agerar som engångslås när nedtryckt tillsammans med en annan "
-"tredjenivåväljare"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
+msgstr "Caps Lock; agerar som engångslås när nedtryckt tillsammans med en annan tredjenivåväljare"
 
 #: rules/base.xml:6653
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
-msgstr ""
-"Omvänt snedstreck; agerar som engångslås när nedtryckt tillsammans med en "
-"annan tredjenivåväljare"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "Omvänt snedstreck; agerar som engångslås när nedtryckt tillsammans med en annan tredjenivåväljare"
 
 #: rules/base.xml:6659
-msgid ""
-"&lt;Less/Greater&gt;; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
-msgstr ""
-"&lt;Mindre än/Större än&gt;; agerar som engångslås när nedtryckt tillsammans "
-"med annan tredjenivåväljare"
+msgid "&lt;Less/Greater&gt;; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "&lt;Mindre än/Större än&gt;; agerar som engångslås när nedtryckt tillsammans med annan tredjenivåväljare"
 
 #: rules/base.xml:6667
 msgid "Ctrl position"
@@ -3887,8 +3867,7 @@ msgstr "Byt höger Win med höger Ctrl"
 
 #: rules/base.xml:6737
 msgid "Left Alt as Ctrl, Left Ctrl as Win, Left Win as Left Alt"
-msgstr ""
-"Vänster Alt som Ctrl, vänster Ctrl som Win, vänster Win som vänster Alt"
+msgstr "Vänster Alt som Ctrl, vänster Ctrl som Win, vänster Win som vänster Alt"
 
 #: rules/base.xml:6745
 msgid "Use keyboard LED to show alternative layout"
@@ -3919,12 +3898,8 @@ msgid "Unicode additions (arrows and math operators)"
 msgstr "Unicode-tillägg (pilar och matematikoperatorer)"
 
 #: rules/base.xml:6800
-msgid ""
-"Unicode additions (arrows and math operators; math operators on default "
-"level)"
-msgstr ""
-"Unicode-tillägg (pilar och matematikoperatorer; matematikoperatorer på "
-"standardnivå)"
+msgid "Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Unicode-tillägg (pilar och matematikoperatorer; matematikoperatorer på standardnivå)"
 
 #: rules/base.xml:6806
 msgid "Legacy Wang 724"
@@ -3932,17 +3907,11 @@ msgstr "Gammalt Wang 724"
 
 #: rules/base.xml:6812
 msgid "Wang 724 keypad with Unicode additions (arrows and math operators)"
-msgstr ""
-"Wang 724 numeriskt tangentbord med Unicode-tillägg (pilar och "
-"matematikoperatorer)"
+msgstr "Wang 724 numeriskt tangentbord med Unicode-tillägg (pilar och matematikoperatorer)"
 
 #: rules/base.xml:6818
-msgid ""
-"Wang 724 keypad with Unicode additions (arrows and math operators; math "
-"operators on default level)"
-msgstr ""
-"Wang 724 numeriskt tangentbord med Unicode-tillägg (pilar och "
-"matematikoperatorer; matematikoperatorer på standardnivå)"
+msgid "Wang 724 keypad with Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Wang 724 numeriskt tangentbord med Unicode-tillägg (pilar och matematikoperatorer; matematikoperatorer på standardnivå)"
 
 #: rules/base.xml:6824
 msgid "Hexadecimal"
@@ -3997,13 +3966,11 @@ msgstr "Caps Lock-beteende"
 
 #: rules/base.xml:6905
 msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Caps Lock använder intern skiftlägesstyrning; Skift \"pausar\" Caps Lock"
+msgstr "Caps Lock använder intern skiftlägesstyrning; Skift \"pausar\" Caps Lock"
 
 #: rules/base.xml:6911
 msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
-msgstr ""
-"Caps Lock använder intern skiftlägesstyrning; Skift påverkar inte Caps Lock"
+msgstr "Caps Lock använder intern skiftlägesstyrning; Skift påverkar inte Caps Lock"
 
 #: rules/base.xml:6917
 msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
@@ -4011,8 +3978,7 @@ msgstr "Caps Lock fungerar som Skift med låsning; Skift \"pausar\" Caps Lock"
 
 #: rules/base.xml:6923
 msgid "Caps Lock acts as Shift with locking; Shift does not affect Caps Lock"
-msgstr ""
-"Caps Lock fungerar som Skift med låsning; Skift påverkar inte Caps Lock"
+msgstr "Caps Lock fungerar som Skift med låsning; Skift påverkar inte Caps Lock"
 
 #: rules/base.xml:6929
 msgid "Caps Lock toggles normal capitalization of alphabetic characters"
@@ -4031,12 +3997,8 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "Gör Caps Lock till ytterligare en Esc-tangent"
 
 #: rules/base.xml:6953
-msgid ""
-"Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves "
-"like regular Caps Lock"
-msgstr ""
-"Gör omodifierad Caps Lock till ytterligare en Esc, men Skift + Caps Lock "
-"beter sig som vanlig Caps Lock"
+msgid "Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves like regular Caps Lock"
+msgstr "Gör omodifierad Caps Lock till ytterligare en Esc, men Skift + Caps Lock beter sig som vanlig Caps Lock"
 
 #: rules/base.xml:6959
 msgid "Make Caps Lock an additional Backspace"
@@ -4175,12 +4137,8 @@ msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "Det numeriska tangentbordet ger alltid siffror (som på macOS)"
 
 #: rules/base.xml:7219
-msgid ""
-"Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in "
-"Windows)"
-msgstr ""
-"Num Lock på: siffror; Skift för piltangenter. Num Lock av: piltangenter (som "
-"i Windows)"
+msgid "Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in Windows)"
+msgstr "Num Lock på: siffror; Skift för piltangenter. Num Lock av: piltangenter (som i Windows)"
 
 #: rules/base.xml:7225
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
@@ -4192,8 +4150,7 @@ msgstr "Specialtangenter (Ctrl+Alt+‹tangent›) hanteras i en server"
 
 #: rules/base.xml:7237
 msgid "Apple Aluminium: emulate PC keys (PrtSc, Scroll Lock, Pause, Num Lock)"
-msgstr ""
-"Apple Aluminium: emulera PC-tangenter (PrtSc, Scroll Lock, Pause, Num Lock)"
+msgstr "Apple Aluminium: emulera PC-tangenter (PrtSc, Scroll Lock, Pause, Num Lock)"
 
 #: rules/base.xml:7243
 msgid "Shift cancels Caps Lock"
@@ -4209,8 +4166,7 @@ msgstr "Båda Skift tillsammans aktiverar Caps Lock"
 
 #: rules/base.xml:7261
 msgid "Both Shift together enable Caps Lock; one Shift key disables it"
-msgstr ""
-"Båda Skift tillsammans aktiverar Caps Lock, en Skifttangent inaktiverar"
+msgstr "Båda Skift tillsammans aktiverar Caps Lock, en Skifttangent inaktiverar"
 
 #: rules/base.xml:7267
 msgid "Both Shift together enable Shift Lock"
@@ -4222,9 +4178,7 @@ msgstr "Skift + Num Lock aktiverar pekartangenter"
 
 #: rules/base.xml:7279
 msgid "Allow breaking grabs with keyboard actions (warning: security risk)"
-msgstr ""
-"Tillåt avbrott av fångad inmatning med tangentbordsåtgärder (varning: "
-"säkerhetsrisk)"
+msgstr "Tillåt avbrott av fångad inmatning med tangentbordsåtgärder (varning: säkerhetsrisk)"
 
 #: rules/base.xml:7285
 msgid "Allow grab and window tree logging"
@@ -4267,36 +4221,20 @@ msgid "Right Alt chooses 5th level"
 msgstr "Höger Alt väljer femte nivån"
 
 #: rules/base.xml:7346
-msgid ""
-"&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed "
-"together with another 5th level chooser"
-msgstr ""
-"&lt;Mindre än/Större än&gt;; väljer femte nivån; agerar som engångslås när "
-"nedtryckt tillsammans med annan femtenivåväljare"
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "&lt;Mindre än/Större än&gt;; väljer femte nivån; agerar som engångslås när nedtryckt tillsammans med annan femtenivåväljare"
 
 #: rules/base.xml:7352
-msgid ""
-"Right Alt chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Höger Alt väljer femte nivån; agerar som engångslås när nedtryckt "
-"tillsammans med en annan femtenivåväljare"
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Höger Alt väljer femte nivån; agerar som engångslås när nedtryckt tillsammans med en annan femtenivåväljare"
 
 #: rules/base.xml:7358
-msgid ""
-"Left Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Vänster Win väljer femte nivån; agerar som engångslås när nedtryckt "
-"tillsammans med en annan femtenivåväljare"
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Vänster Win väljer femte nivån; agerar som engångslås när nedtryckt tillsammans med en annan femtenivåväljare"
 
 #: rules/base.xml:7364
-msgid ""
-"Right Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Höger Win väljer femte nivån; agerar som engångslås när nedtryckt "
-"tillsammans med en annan femtenivåväljare"
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Höger Win väljer femte nivån; agerar som engångslås när nedtryckt tillsammans med en annan femtenivåväljare"
 
 #: rules/base.xml:7410
 msgid "Using space key to input non-breaking space"
@@ -4319,87 +4257,52 @@ msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "Icke-brytande blanksteg på tredje nivån, ingenting på fjärde nivån"
 
 #: rules/base.xml:7439
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
-msgstr ""
-"Icke-brytande blanksteg på tredje nivån, tunt icke-brytande blanksteg på "
-"fjärde nivån"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Icke-brytande blanksteg på tredje nivån, tunt icke-brytande blanksteg på fjärde nivån"
 
 #: rules/base.xml:7445
 msgid "Non-breaking space at the 4th level"
 msgstr "Icke-brytande blanksteg på fjärde nivån"
 
 #: rules/base.xml:7451
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
-msgstr ""
-"Icke-brytande blanksteg på fjärde nivån, tunt icke-brytande blanksteg på "
-"sjätte nivån"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgstr "Icke-brytande blanksteg på fjärde nivån, tunt icke-brytande blanksteg på sjätte nivån"
 
 #: rules/base.xml:7457
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"Icke-brytande blanksteg på fjärde nivån, tunt icke-brytande blanksteg på "
-"sjätte nivån (via Ctrl+Skift)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "Icke-brytande blanksteg på fjärde nivån, tunt icke-brytande blanksteg på sjätte nivån (via Ctrl+Skift)"
 
 #: rules/base.xml:7463
 msgid "Zero-width non-joiner at the 2nd level"
 msgstr "Noll-bredd, icke-sammanfogande på andra nivån"
 
 #: rules/base.xml:7469
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
-msgstr ""
-"Noll-bredd, icke-sammanfogande på andra nivån, noll-bredd, sammanfogande på "
-"tredje nivån"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgstr "Noll-bredd, icke-sammanfogande på andra nivån, noll-bredd, sammanfogande på tredje nivån"
 
 #: rules/base.xml:7475
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"Noll-bredd, icke-sammanfogande på andra nivån, noll-bredd, sammanfogande på "
-"tredje nivån, icke-brytande blanksteg på fjärde nivån"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "Noll-bredd, icke-sammanfogande på andra nivån, noll-bredd, sammanfogande på tredje nivån, icke-brytande blanksteg på fjärde nivån"
 
 #: rules/base.xml:7481
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
-msgstr ""
-"Noll-bredd, icke-sammanfogande på andra nivån, icke-brytande blanksteg på "
-"tredje nivån"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgstr "Noll-bredd, icke-sammanfogande på andra nivån, icke-brytande blanksteg på tredje nivån"
 
 #: rules/base.xml:7487
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"Noll-bredd, icke-sammanfogande på andra nivån, icke-brytande blanksteg på "
-"tredje nivån, ingenting på fjärde nivån"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "Noll-bredd, icke-sammanfogande på andra nivån, icke-brytande blanksteg på tredje nivån, ingenting på fjärde nivån"
 
 #: rules/base.xml:7493
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"Noll-bredd, icke-sammanfogande på andra nivån, icke-brytande blanksteg på "
-"tredje nivån, noll-bredd sammanfogande på fjärde nivån"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Noll-bredd, icke-sammanfogande på andra nivån, icke-brytande blanksteg på tredje nivån, noll-bredd sammanfogande på fjärde nivån"
 
 #: rules/base.xml:7499
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"Noll-bredd, icke-sammanfogande på andra nivån, icke-brytande blanksteg på "
-"tredje nivån, tunt icke-brytande blanksteg på fjärde nivån"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Noll-bredd, icke-sammanfogande på andra nivån, icke-brytande blanksteg på tredje nivån, tunt icke-brytande blanksteg på fjärde nivån"
 
 #: rules/base.xml:7505
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
-msgstr ""
-"Noll-bredd, icke-sammanfogande på tredje nivån, noll-bredd, sammanfogande på "
-"fjärde nivån"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Noll-bredd, icke-sammanfogande på tredje nivån, noll-bredd, sammanfogande på fjärde nivån"
 
 #: rules/base.xml:7512
 msgid "Japanese keyboard options"
@@ -4711,15 +4614,11 @@ msgstr "Engelsk (Carpalx, fullständig optimering)"
 
 #: rules/base.extras.xml:441
 msgid "English (Carpalx, full optimization, intl., with dead keys)"
-msgstr ""
-"Engelsk (Carpalx, fullständig optimering, internationell med stumma "
-"tangenter)"
+msgstr "Engelsk (Carpalx, fullständig optimering, internationell med stumma tangenter)"
 
 #: rules/base.extras.xml:447
 msgid "English (Carpalx, full optimization, intl., with AltGr dead keys)"
-msgstr ""
-"Engelsk (Carpalx, fullständig optimering, internationell med stumma AltGr-"
-"tangenter)"
+msgstr "Engelsk (Carpalx, fullständig optimering, internationell med stumma AltGr-tangenter)"
 
 #: rules/base.extras.xml:453
 msgid "English (3l)"
@@ -4806,20 +4705,12 @@ msgid "Arabic (Sun Type 6/7)"
 msgstr "Arabisk (Sun Type 6/7)"
 
 #: rules/base.extras.xml:747
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and European "
-"digits preferred)"
-msgstr ""
-"Arabisk (med utökningar för andra arabiskskrivna språk och europeiska "
-"siffror föredras)"
+msgid "Arabic (with extensions for Arabic-written other languages and European digits preferred)"
+msgstr "Arabisk (med utökningar för andra arabiskskrivna språk och europeiska siffror föredras)"
 
 #: rules/base.extras.xml:753
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and Arabic digits "
-"preferred)"
-msgstr ""
-"Arabisk (med utökningar för andra arabiskskrivna språk och arabiska siffror "
-"föredras)"
+msgid "Arabic (with extensions for Arabic-written other languages and Arabic digits preferred)"
+msgstr "Arabisk (med utökningar för andra arabiskskrivna språk och arabiska siffror föredras)"
 
 #: rules/base.extras.xml:759
 msgid "Ugaritic instead of Arabic"
@@ -5274,29 +5165,17 @@ msgstr "Byt med hakparenteser"
 #~ msgid "English (Mali, US international)"
 #~ msgstr "Engelsk (Mali, USA internationell)"
 
-#~ msgid ""
-#~ "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with "
-#~ "another 5th-level-chooser"
-#~ msgstr ""
-#~ "&lt;Mindre än/Större än&gt; väljer femte nivån, låses när nedtryckt "
-#~ "tillsammans med en annan femtenivåväljare"
+#~ msgid "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with another 5th-level-chooser"
+#~ msgstr "&lt;Mindre än/Större än&gt; väljer femte nivån, låses när nedtryckt tillsammans med en annan femtenivåväljare"
 
 #~ msgid "Non-breakable space character at fourth level"
 #~ msgstr "Icke-brytande blankstegstecken på fjärde nivån"
 
-#~ msgid ""
-#~ "Non-breakable space character at fourth level, thin non-breakable space "
-#~ "character at sixth level"
-#~ msgstr ""
-#~ "Icke-brytande blankstegstecken på fjärde nivån, tunt icke-brytande "
-#~ "blankstegstecken på sjätte nivån"
+#~ msgid "Non-breakable space character at fourth level, thin non-breakable space character at sixth level"
+#~ msgstr "Icke-brytande blankstegstecken på fjärde nivån, tunt icke-brytande blankstegstecken på sjätte nivån"
 
-#~ msgid ""
-#~ "Zero-width non-joiner character at second level, zero-width joiner "
-#~ "character at third level"
-#~ msgstr ""
-#~ "Noll-bredd, icke-sammanfogande tecken på andra nivån, noll-bredd, "
-#~ "sammanfogande tecken på tredje nivån"
+#~ msgid "Zero-width non-joiner character at second level, zero-width joiner character at third level"
+#~ msgstr "Noll-bredd, icke-sammanfogande tecken på andra nivån, noll-bredd, sammanfogande tecken på tredje nivån"
 
 #~ msgid "APL keyboard symbols"
 #~ msgstr "APL-tangentbordssymboler"
@@ -5308,9 +5187,7 @@ msgstr "Byt med hakparenteser"
 #~ msgstr "Engelsk (Carpalx, internationell AltGr med stumma tangenter)"
 
 #~ msgid "English (Carpalx, full optimization, international AltGr dead keys)"
-#~ msgstr ""
-#~ "Engelsk (Carpalx, fullständig optimering, internationell AltGr med stumma "
-#~ "tangenter)"
+#~ msgstr "Engelsk (Carpalx, fullständig optimering, internationell AltGr med stumma tangenter)"
 
 #~ msgid "German (legacy)"
 #~ msgstr "Tysk (äldre)"
@@ -5322,8 +5199,7 @@ msgstr "Byt med hakparenteser"
 #~ msgstr "Gör Caps Lock till ytterligare en Ctrl-tangent"
 
 #~ msgid "Shift with numeric keypad keys works as in MS Windows"
-#~ msgstr ""
-#~ "Skift med tangenterna på numeriska tangentbordet fungerar som i MS Windows"
+#~ msgstr "Skift med tangenterna på numeriska tangentbordet fungerar som i MS Windows"
 
 #~ msgid "Bengali"
 #~ msgstr "Bengalisk"
@@ -5341,8 +5217,7 @@ msgstr "Byt med hakparenteser"
 #~ msgstr "Tangent(er) för att byta layout"
 
 #~ msgid "Make Caps Lock an additional Control but keep the Caps_Lock keysym"
-#~ msgstr ""
-#~ "Gör Caps Lock till ytterligare en Control men behåll Caps_Lock-keysym"
+#~ msgstr "Gör Caps Lock till ytterligare en Control men behåll Caps_Lock-keysym"
 
 #~ msgid "Numeric keypad layout selection"
 #~ msgstr "Layoutval för numeriskt tangentbord"
@@ -5356,21 +5231,11 @@ msgstr "Byt med hakparenteser"
 #~ msgid "Toggle PointerKeys with Shift + NumLock."
 #~ msgstr "Växla PointerKeys med Skift + NumLock."
 
-#~ msgid ""
-#~ "&lt;Less/Greater&gt; chooses 5th level and activates level5-Lock when "
-#~ "pressed together with another 5th-level-chooser, one press releases the "
-#~ "lock"
-#~ msgstr ""
-#~ "‹Mindre än/Större än› väljer femte nivån och aktiverar level5-Lock när "
-#~ "nedtryckt tillsammans med en annan femtenivåväljare, ett tryck släpper på "
-#~ "låset"
+#~ msgid "&lt;Less/Greater&gt; chooses 5th level and activates level5-Lock when pressed together with another 5th-level-chooser, one press releases the lock"
+#~ msgstr "‹Mindre än/Större än› väljer femte nivån och aktiverar level5-Lock när nedtryckt tillsammans med en annan femtenivåväljare, ett tryck släpper på låset"
 
-#~ msgid ""
-#~ "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with "
-#~ "another 5th-level-chooser, one press releases the lock"
-#~ msgstr ""
-#~ "‹Mindre än/Större än› väljer femte nivån, låses när nedtryckt tillsammans "
-#~ "med en annan femtenivåväljare, ett tryck släpper på låset"
+#~ msgid "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with another 5th-level-chooser, one press releases the lock"
+#~ msgstr "‹Mindre än/Större än› väljer femte nivån, låses när nedtryckt tillsammans med en annan femtenivåväljare, ett tryck släpper på låset"
 
 #~ msgid "Afg"
 #~ msgstr "Afg"
@@ -5391,9 +5256,7 @@ msgstr "Byt med hakparenteser"
 #~ msgstr "GBr"
 
 #~ msgid "German (Romanian keyboard with German letters, eliminate dead keys)"
-#~ msgstr ""
-#~ "Tysk (Rumänskt tangentbord med tyska bokstäver, eliminera stumma "
-#~ "tangenter)"
+#~ msgstr "Tysk (Rumänskt tangentbord med tyska bokstäver, eliminera stumma tangenter)"
 
 #~ msgid "Irish (Ogham)"
 #~ msgstr "Irländsk (Ogham)"
@@ -5404,12 +5267,8 @@ msgstr "Byt med hakparenteser"
 #~ msgid "Kurdish (Iran, latin alt-Q)"
 #~ msgstr "Kurdisk (Iran, latinskt alt-Q)"
 
-#~ msgid ""
-#~ "Left Win chooses 5th level, locks when pressed together with another 5th-"
-#~ "level-chooser, one press releases the lock"
-#~ msgstr ""
-#~ "Vänster Win-tangent väljer femte nivån, låses när nedtryckt tillsammans "
-#~ "med en annan femtenivåväljare, ett tryck släpper på låset"
+#~ msgid "Left Win chooses 5th level, locks when pressed together with another 5th-level-chooser, one press releases the lock"
+#~ msgstr "Vänster Win-tangent väljer femte nivån, låses när nedtryckt tillsammans med en annan femtenivåväljare, ett tryck släpper på låset"
 
 #~ msgid "Māori"
 #~ msgstr "Māori"
@@ -5423,30 +5282,17 @@ msgstr "Byt med hakparenteser"
 #~ msgid "Portuguese (Nativo for Esperanto)"
 #~ msgstr "Portugisisk (nativo för Esperanto)"
 
-#~ msgid ""
-#~ "Right Alt chooses 5th level and activates level5-Lock when pressed "
-#~ "together with another 5th-level-chooser, one press releases the lock"
-#~ msgstr ""
-#~ "Höger Alt-tangent väljer femte nivån och aktiverar level5-Lock när "
-#~ "nedtryckt tillsammans med en annan femtenivåväljare, ett tryck släpper på "
-#~ "låset"
+#~ msgid "Right Alt chooses 5th level and activates level5-Lock when pressed together with another 5th-level-chooser, one press releases the lock"
+#~ msgstr "Höger Alt-tangent väljer femte nivån och aktiverar level5-Lock när nedtryckt tillsammans med en annan femtenivåväljare, ett tryck släpper på låset"
 
-#~ msgid ""
-#~ "Right Alt chooses 5th level, locks when pressed together with another 5th-"
-#~ "level-chooser, one press releases the lock"
-#~ msgstr ""
-#~ "Höger Alt-tangent väljer femte nivån, låses när nedtryckt tillsammans med "
-#~ "en annan femtenivåväljare, ett tryck släpper på låset"
+#~ msgid "Right Alt chooses 5th level, locks when pressed together with another 5th-level-chooser, one press releases the lock"
+#~ msgstr "Höger Alt-tangent väljer femte nivån, låses när nedtryckt tillsammans med en annan femtenivåväljare, ett tryck släpper på låset"
 
 #~ msgid "Right Ctrl is mapped to Menu"
 #~ msgstr "Höger Ctrl är mappad till Meny"
 
-#~ msgid ""
-#~ "Right Win chooses 5th level, locks when pressed together with another 5th-"
-#~ "level-chooser, one press releases the lock"
-#~ msgstr ""
-#~ "Höger Win-tangent väljer femte nivån, låses när nedtryckt tillsammans med "
-#~ "en annan femtenivåväljare, ett tryck släpper på låset"
+#~ msgid "Right Win chooses 5th level, locks when pressed together with another 5th-level-chooser, one press releases the lock"
+#~ msgstr "Höger Win-tangent väljer femte nivån, låses när nedtryckt tillsammans med en annan femtenivåväljare, ett tryck släpper på låset"
 
 #~ msgid "Romanian (Crimean Tatar Dobruca-2 Q)"
 #~ msgstr "Rumänsk (Krimtatariska Dobruca-2 Q)"

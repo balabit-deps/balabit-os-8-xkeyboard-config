@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config-2.28.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2020-01-31 00:30+0000\n"
+"POT-Creation-Date: 2020-01-25 00:19+0000\n"
 "PO-Revision-Date: 2020-01-26 12:26+0100\n"
 "Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <ca@dodds.net>\n"
@@ -768,12 +768,8 @@ msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
 msgstr "Truly Ergonomic Computer Keyboard Model 227 (Tecles Alt amples)"
 
 #: rules/base.xml:1329
-msgid ""
-"Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
-"additional Super and Menu key)"
-msgstr ""
-"Truly Ergonomic Computer Keyboard Model 229 (Tecles Alt de mida estàndard, "
-"tecla Super i Menú addicional)"
+msgid "Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)"
+msgstr "Truly Ergonomic Computer Keyboard Model 229 (Tecles Alt de mida estàndard, tecla Super i Menú addicional)"
 
 #. Keyboard indicator for English layouts
 #. Keyboard indicator for Australian layouts
@@ -3650,11 +3646,8 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "Menú (mentre està premuda), Maj+Menú per Menú"
 
 #: rules/base.xml:6369
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
-msgstr ""
-"Bloq Maj (mentre està premuda), Alt+Bloq Maj per a l'acció de Bloq Maj "
-"original"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgstr "Bloq Maj (mentre està premuda), Alt+Bloq Maj per a l'acció de Bloq Maj original"
 
 #: rules/base.xml:6375
 msgid "Right Ctrl (while pressed)"
@@ -3683,13 +3676,11 @@ msgstr "Bloq Maj a la primera disposició; Maj+Bloq Maj a la darrera disposició
 
 #: rules/base.xml:6411
 msgid "Left Win to first layout; Right Win/Menu to last layout"
-msgstr ""
-"Win esquerra a la primera disposició; Win/Menú dreta a la darrera disposició"
+msgstr "Win esquerra a la primera disposició; Win/Menú dreta a la darrera disposició"
 
 #: rules/base.xml:6417
 msgid "Left Ctrl to first layout; Right Ctrl to last layout"
-msgstr ""
-"Ctrl esquerra a la primera disposició; Ctrl dreta a la darrera disposició"
+msgstr "Ctrl esquerra a la primera disposició; Ctrl dreta a la darrera disposició"
 
 #: rules/base.xml:6423
 msgid "Alt+Caps Lock"
@@ -3773,9 +3764,7 @@ msgstr "Bloq Despl"
 
 #: rules/base.xml:6543
 msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
-msgstr ""
-"Ctrl esquerra+Win esquerra a la primera disposició; Ctrl dreta+Menú a la "
-"segona disposició"
+msgstr "Ctrl esquerra+Win esquerra a la primera disposició; Ctrl dreta+Menú a la segona disposició"
 
 #: rules/base.xml:6549
 msgid "Left Ctrl+Left Win"
@@ -3814,28 +3803,16 @@ msgid "&lt;Less/Greater&gt;"
 msgstr "&lt;Més petit/Més gran&gt;"
 
 #: rules/base.xml:6647
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
-msgstr ""
-"Bloq Maj; bloqueja un cop en prémer conjuntament amb un altre selector de "
-"nivell 3r"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
+msgstr "Bloq Maj; bloqueja un cop en prémer conjuntament amb un altre selector de nivell 3r"
 
 #: rules/base.xml:6653
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
-msgstr ""
-"Barra inversa; bloqueja un cop en prémer conjuntament amb un altre selector "
-"de 3r nivell"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "Barra inversa; bloqueja un cop en prémer conjuntament amb un altre selector de 3r nivell"
 
 #: rules/base.xml:6659
-msgid ""
-"&lt;Less/Greater&gt;; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
-msgstr ""
-"&lt;Més petit/Més gran&gt;; bloqueja un cop en prémer conjuntament amb un "
-"altre selector de nivell 3r"
+msgid "&lt;Less/Greater&gt;; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "&lt;Més petit/Més gran&gt;; bloqueja un cop en prémer conjuntament amb un altre selector de nivell 3r"
 
 #: rules/base.xml:6667
 msgid "Ctrl position"
@@ -3887,9 +3864,7 @@ msgstr "Intercanvia la Win dreta per la Ctrl dreta"
 
 #: rules/base.xml:6737
 msgid "Left Alt as Ctrl, Left Ctrl as Win, Left Win as Left Alt"
-msgstr ""
-"Alt esquerra com a Ctrl, Ctrl esquerra com a Win, Win esquerra com a Alt "
-"esquerra"
+msgstr "Alt esquerra com a Ctrl, Ctrl esquerra com a Win, Win esquerra com a Alt esquerra"
 
 #: rules/base.xml:6745
 msgid "Use keyboard LED to show alternative layout"
@@ -3920,12 +3895,8 @@ msgid "Unicode additions (arrows and math operators)"
 msgstr "Addicions Unicode (fletxes i operadors matemàtics)"
 
 #: rules/base.xml:6800
-msgid ""
-"Unicode additions (arrows and math operators; math operators on default "
-"level)"
-msgstr ""
-"Addicions Unicode (fletxes i operadors matemàtics; els operadors matemàtics "
-"al nivell per defecte)"
+msgid "Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Addicions Unicode (fletxes i operadors matemàtics; els operadors matemàtics al nivell per defecte)"
 
 #: rules/base.xml:6806
 msgid "Legacy Wang 724"
@@ -3933,17 +3904,11 @@ msgstr "Wang 724 antic"
 
 #: rules/base.xml:6812
 msgid "Wang 724 keypad with Unicode additions (arrows and math operators)"
-msgstr ""
-"Teclat numèric Wang 724 amb addicions Unicode (fletxes i operadors "
-"matemàtics)"
+msgstr "Teclat numèric Wang 724 amb addicions Unicode (fletxes i operadors matemàtics)"
 
 #: rules/base.xml:6818
-msgid ""
-"Wang 724 keypad with Unicode additions (arrows and math operators; math "
-"operators on default level)"
-msgstr ""
-"Teclat numèric Wang 724 amb addicions Unicode (fletxes i operadors "
-"matemàtics; els operadors matemàtics en el nivell per defecte)"
+msgid "Wang 724 keypad with Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Teclat numèric Wang 724 amb addicions Unicode (fletxes i operadors matemàtics; els operadors matemàtics en el nivell per defecte)"
 
 #: rules/base.xml:6824
 msgid "Hexadecimal"
@@ -4030,12 +3995,8 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "Converteix Bloq Maj en un Esc addicional"
 
 #: rules/base.xml:6953
-msgid ""
-"Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves "
-"like regular Caps Lock"
-msgstr ""
-"Converteix la Bloq Maj sense modificar en una Esc addicional, però Maj + "
-"Bloq Maj es comporta com una Bloq Maj normal"
+msgid "Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves like regular Caps Lock"
+msgstr "Converteix la Bloq Maj sense modificar en una Esc addicional, però Maj + Bloq Maj es comporta com una Bloq Maj normal"
 
 #: rules/base.xml:6959
 msgid "Make Caps Lock an additional Backspace"
@@ -4174,12 +4135,8 @@ msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "El teclat numèric sempre introdueix dígits (com en el Mac OS)"
 
 #: rules/base.xml:7219
-msgid ""
-"Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in "
-"Windows)"
-msgstr ""
-"Bloq Núm actiu: dígits; Maj per a les tecles de cursor. Bloq Núm inactiu: "
-"tecles de cursor (com en el Windows)"
+msgid "Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in Windows)"
+msgstr "Bloq Núm actiu: dígits; Maj per a les tecles de cursor. Bloq Núm inactiu: tecles de cursor (com en el Windows)"
 
 #: rules/base.xml:7225
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
@@ -4191,9 +4148,7 @@ msgstr "Tecles especials (Ctrl+Alt+&lt;tecla&gt;) gestionades en un servidor"
 
 #: rules/base.xml:7237
 msgid "Apple Aluminium: emulate PC keys (PrtSc, Scroll Lock, Pause, Num Lock)"
-msgstr ""
-"Apple Aluminium: emula les tecles del PC (Impr Pant, Bloq Despl, Pausa, Bloq "
-"Núm)"
+msgstr "Apple Aluminium: emula les tecles del PC (Impr Pant, Bloq Despl, Pausa, Bloq Núm)"
 
 #: rules/base.xml:7243
 msgid "Shift cancels Caps Lock"
@@ -4221,8 +4176,7 @@ msgstr "Maj + Bloq Núm activa les tecles de cursor"
 
 #: rules/base.xml:7279
 msgid "Allow breaking grabs with keyboard actions (warning: security risk)"
-msgstr ""
-"Permetre trencar la captura amb accions del teclat (avís: risc de seguretat)"
+msgstr "Permetre trencar la captura amb accions del teclat (avís: risc de seguretat)"
 
 #: rules/base.xml:7285
 msgid "Allow grab and window tree logging"
@@ -4265,36 +4219,20 @@ msgid "Right Alt chooses 5th level"
 msgstr "Alt dreta selecciona el 5è nivell"
 
 #: rules/base.xml:7346
-msgid ""
-"&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed "
-"together with another 5th level chooser"
-msgstr ""
-"&lt;Més petit/Més gran&gt; selecciona el nivell 5è; bloqueja un cop en "
-"prémer conjuntament amb un altre selector de nivell 5è"
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "&lt;Més petit/Més gran&gt; selecciona el nivell 5è; bloqueja un cop en prémer conjuntament amb un altre selector de nivell 5è"
 
 #: rules/base.xml:7352
-msgid ""
-"Right Alt chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Alt dreta selecciona el nivell 5è; bloqueja un cop en prémer conjuntament "
-"amb un altre selector de nivell 5è"
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Alt dreta selecciona el nivell 5è; bloqueja un cop en prémer conjuntament amb un altre selector de nivell 5è"
 
 #: rules/base.xml:7358
-msgid ""
-"Left Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Win esquerra selecciona el nivell 5è; bloqueja un cop en prémer conjuntament "
-"amb un altre selector de nivell 5è"
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Win esquerra selecciona el nivell 5è; bloqueja un cop en prémer conjuntament amb un altre selector de nivell 5è"
 
 #: rules/base.xml:7364
-msgid ""
-"Right Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Win dreta selecciona el nivell 5è; bloqueja un cop en prémer conjuntament "
-"amb un altre selector de nivell 5è"
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Win dreta selecciona el nivell 5è; bloqueja un cop en prémer conjuntament amb un altre selector de nivell 5è"
 
 #: rules/base.xml:7410
 msgid "Using space key to input non-breaking space"
@@ -4317,85 +4255,52 @@ msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "Espai sense salt al nivell 3r, res al nivell 4t"
 
 #: rules/base.xml:7439
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
-msgstr ""
-"Espai sense salt al nivell 3r, i un caràcter d'espai fi sense salt al nivell "
-"4t"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Espai sense salt al nivell 3r, i un caràcter d'espai fi sense salt al nivell 4t"
 
 #: rules/base.xml:7445
 msgid "Non-breaking space at the 4th level"
 msgstr "Espai sense salt al nivell 4t"
 
 #: rules/base.xml:7451
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
-msgstr ""
-"Espai sense salt al nivell 4t, i un caràcter d'espai fi sense salt al nivell "
-"6è"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgstr "Espai sense salt al nivell 4t, i un caràcter d'espai fi sense salt al nivell 6è"
 
 #: rules/base.xml:7457
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"Espai sense salt al nivell 4t, un caràcter d'espai fi sense salt al nivell "
-"6è (via Ctrl+Maj)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "Espai sense salt al nivell 4t, un caràcter d'espai fi sense salt al nivell 6è (via Ctrl+Maj)"
 
 #: rules/base.xml:7463
 msgid "Zero-width non-joiner at the 2nd level"
 msgstr "Separador d'amplada zero al nivell 2n"
 
 #: rules/base.xml:7469
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
-msgstr ""
-"Separador d'amplada zero al nivell 2n, un enllaç d'amplada zero al nivell 3r"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgstr "Separador d'amplada zero al nivell 2n, un enllaç d'amplada zero al nivell 3r"
 
 #: rules/base.xml:7475
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"Separador d'amplada zero al nivell 2n, un enllaç d'amplada zero al nivell "
-"3r, i un caràcter d'espai sense salt al nivell 4t"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "Separador d'amplada zero al nivell 2n, un enllaç d'amplada zero al nivell 3r, i un caràcter d'espai sense salt al nivell 4t"
 
 #: rules/base.xml:7481
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
-msgstr ""
-"Caràcter separador d'amplada zero al nivell 2n, un caràcter d'espai sense "
-"salt al nivell 3r"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgstr "Caràcter separador d'amplada zero al nivell 2n, un caràcter d'espai sense salt al nivell 3r"
 
 #: rules/base.xml:7487
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"Separador d'amplada zero al nivell 2n, espai sense salt al nivell 3r, i res "
-"al nivell 4t"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "Separador d'amplada zero al nivell 2n, espai sense salt al nivell 3r, i res al nivell 4t"
 
 #: rules/base.xml:7493
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"Separador d'amplada zero al nivell 2n, un caràcter d'espai sense salt al "
-"nivell 3r, i un enllaç d'amplada zero al nivell 4t"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Separador d'amplada zero al nivell 2n, un caràcter d'espai sense salt al nivell 3r, i un enllaç d'amplada zero al nivell 4t"
 
 #: rules/base.xml:7499
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"Separador d'amplada zero al nivell 2n, un espai sense salt al nivell 3r, i "
-"un espai fi sense salt al nivell 4t"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Separador d'amplada zero al nivell 2n, un espai sense salt al nivell 3r, i un espai fi sense salt al nivell 4t"
 
 #: rules/base.xml:7505
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
-msgstr ""
-"Separador d'amplada zero al nivell 3r, un enllaç d'amplada zero al nivell 4t"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Separador d'amplada zero al nivell 3r, un enllaç d'amplada zero al nivell 4t"
 
 #: rules/base.xml:7512
 msgid "Japanese keyboard options"
@@ -4451,8 +4356,7 @@ msgstr "A la tecla corresponent en una disposició Coleman"
 
 #: rules/base.xml:7590
 msgid "Maintain key compatibility with old Solaris keycodes"
-msgstr ""
-"Manté la compatibilitat de tecles amb els codis de tecla antics de Solaris"
+msgstr "Manté la compatibilitat de tecles amb els codis de tecla antics de Solaris"
 
 #: rules/base.xml:7595
 msgid "Sun Key compatibility"
@@ -4712,8 +4616,7 @@ msgstr "Anglès (Carpalx, optimització completa, intl., amb tecles mortes)"
 
 #: rules/base.extras.xml:447
 msgid "English (Carpalx, full optimization, intl., with AltGr dead keys)"
-msgstr ""
-"Anglès (Carpalx, optimització completa, intl., amb tecles mortes AltGr)"
+msgstr "Anglès (Carpalx, optimització completa, intl., amb tecles mortes AltGr)"
 
 #: rules/base.extras.xml:453
 msgid "English (3l)"
@@ -4800,20 +4703,12 @@ msgid "Arabic (Sun Type 6/7)"
 msgstr "Àrab (Sun Type 6/7)"
 
 #: rules/base.extras.xml:747
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and European "
-"digits preferred)"
-msgstr ""
-"Àrab (amb ampliacions per escriptura àrab d'altres idiomes i amb preferència "
-"de dígits europeus)"
+msgid "Arabic (with extensions for Arabic-written other languages and European digits preferred)"
+msgstr "Àrab (amb ampliacions per escriptura àrab d'altres idiomes i amb preferència de dígits europeus)"
 
 #: rules/base.extras.xml:753
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and Arabic digits "
-"preferred)"
-msgstr ""
-"Àrab (amb ampliacions per escriptura àrab d'altres idiomes i amb preferència "
-"de dígits àrabs)"
+msgid "Arabic (with extensions for Arabic-written other languages and Arabic digits preferred)"
+msgstr "Àrab (amb ampliacions per escriptura àrab d'altres idiomes i amb preferència de dígits àrabs)"
 
 #: rules/base.extras.xml:759
 msgid "Ugaritic instead of Arabic"

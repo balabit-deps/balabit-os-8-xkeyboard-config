@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config 2.28.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2020-01-31 00:30+0000\n"
+"POT-Creation-Date: 2020-01-25 00:19+0000\n"
 "PO-Revision-Date: 2020-01-27 20:15+0100\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
@@ -765,12 +765,8 @@ msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
 msgstr "Truly Ergonomic Computer Keyboard Model 227 (szerokie klawisze Alt)"
 
 #: rules/base.xml:1329
-msgid ""
-"Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
-"additional Super and Menu key)"
-msgstr ""
-"Truly Ergonomic Computer Keyboard Model 229 (klawisze Alt standardowej "
-"szerokości, dodatkowy klawisz Super i Menu)"
+msgid "Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)"
+msgstr "Truly Ergonomic Computer Keyboard Model 229 (klawisze Alt standardowej szerokości, dodatkowy klawisz Super i Menu)"
 
 #. Keyboard indicator for English layouts
 #. Keyboard indicator for Australian layouts
@@ -3647,8 +3643,7 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "Menu (wciśnięty), Shift+Menu jako Menu"
 
 #: rules/base.xml:6369
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
 msgstr "CapsLock (wciśnięty), Alt+CapsLock jako zwykły CapsLock"
 
 #: rules/base.xml:6375
@@ -3766,8 +3761,7 @@ msgstr "ScrollLock"
 
 #: rules/base.xml:6543
 msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
-msgstr ""
-"Lewy Ctrl+lewy Win do pierwszego układu; prawy Ctrl+Menu do drugiego układu"
+msgstr "Lewy Ctrl+lewy Win do pierwszego układu; prawy Ctrl+Menu do drugiego układu"
 
 #: rules/base.xml:6549
 msgid "Left Ctrl+Left Win"
@@ -3806,28 +3800,16 @@ msgid "&lt;Less/Greater&gt;"
 msgstr "&lt;Mniejsze/Większe&gt;"
 
 #: rules/base.xml:6647
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
-msgstr ""
-"CapsLock; jednorazowo blokuje przy naciśnięciu z innym klawiszem "
-"wybierającym poziom 3."
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
+msgstr "CapsLock; jednorazowo blokuje przy naciśnięciu z innym klawiszem wybierającym poziom 3."
 
 #: rules/base.xml:6653
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
-msgstr ""
-"Odwrotny ukośnik; jednorazowo blokuje przy naciśnięciu z innym klawiszem "
-"wybierającym poziom 3."
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "Odwrotny ukośnik; jednorazowo blokuje przy naciśnięciu z innym klawiszem wybierającym poziom 3."
 
 #: rules/base.xml:6659
-msgid ""
-"&lt;Less/Greater&gt;; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
-msgstr ""
-"&lt;Mniejsze/Większe&gt;; jednorazowo blokuje przy naciśnięciu z innym "
-"klawiszem wybierającym poziom 3."
+msgid "&lt;Less/Greater&gt;; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "&lt;Mniejsze/Większe&gt;; jednorazowo blokuje przy naciśnięciu z innym klawiszem wybierającym poziom 3."
 
 #: rules/base.xml:6667
 msgid "Ctrl position"
@@ -3910,12 +3892,8 @@ msgid "Unicode additions (arrows and math operators)"
 msgstr "Dodatki Unicode (strzałki i symbole matematyczne)"
 
 #: rules/base.xml:6800
-msgid ""
-"Unicode additions (arrows and math operators; math operators on default "
-"level)"
-msgstr ""
-"Dodatki Unicode (strzałki i symbole matematyczne; symbole matematyczne na "
-"poziomie domyślnym)"
+msgid "Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Dodatki Unicode (strzałki i symbole matematyczne; symbole matematyczne na poziomie domyślnym)"
 
 #: rules/base.xml:6806
 msgid "Legacy Wang 724"
@@ -3923,17 +3901,11 @@ msgstr "Legacy Wang 724"
 
 #: rules/base.xml:6812
 msgid "Wang 724 keypad with Unicode additions (arrows and math operators)"
-msgstr ""
-"Klawiatura numeryczna Wang 724 z dodatkami Unicode (strzałki i symbole "
-"matematyczne)"
+msgstr "Klawiatura numeryczna Wang 724 z dodatkami Unicode (strzałki i symbole matematyczne)"
 
 #: rules/base.xml:6818
-msgid ""
-"Wang 724 keypad with Unicode additions (arrows and math operators; math "
-"operators on default level)"
-msgstr ""
-"Klawiatura numeryczna Wang 724 z dodatkami Unicode (strzałki i symbole "
-"matematyczne; symbole matematyczne na poziomie domyślnym)"
+msgid "Wang 724 keypad with Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Klawiatura numeryczna Wang 724 z dodatkami Unicode (strzałki i symbole matematyczne; symbole matematyczne na poziomie domyślnym)"
 
 #: rules/base.xml:6824
 msgid "Hexadecimal"
@@ -3988,14 +3960,11 @@ msgstr "Zachowanie CapsLock"
 
 #: rules/base.xml:6905
 msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
-msgstr ""
-"CapsLock używa wewnętrznej zmiany rozmiaru liter; Shift wstrzymuje CapsLock"
+msgstr "CapsLock używa wewnętrznej zmiany rozmiaru liter; Shift wstrzymuje CapsLock"
 
 #: rules/base.xml:6911
 msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
-msgstr ""
-"CapsLock używa wewnętrznej zmiany rozmiaru liter; Shift nie wpływa na "
-"CapsLock"
+msgstr "CapsLock używa wewnętrznej zmiany rozmiaru liter; Shift nie wpływa na CapsLock"
 
 #: rules/base.xml:6917
 msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
@@ -4022,11 +3991,8 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "CapsLock jako dodatkowy Esc"
 
 #: rules/base.xml:6953
-msgid ""
-"Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves "
-"like regular Caps Lock"
-msgstr ""
-"Sam CapsLock jako dodatkowy Esc, ale Shift+CapsLock jako zwykły CapsLock"
+msgid "Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves like regular Caps Lock"
+msgstr "Sam CapsLock jako dodatkowy Esc, ale Shift+CapsLock jako zwykły CapsLock"
 
 #: rules/base.xml:6959
 msgid "Make Caps Lock an additional Backspace"
@@ -4165,12 +4131,8 @@ msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "Klawiatura numeryczna zawsze prowadza cyfry (jak w MacOS)"
 
 #: rules/base.xml:7219
-msgid ""
-"Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in "
-"Windows)"
-msgstr ""
-"NumLock włączony: cyfry; Shift na strzałki; NumLock wyłączony: strzałki (jak "
-"w Windows)"
+msgid "Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in Windows)"
+msgstr "NumLock włączony: cyfry; Shift na strzałki; NumLock wyłączony: strzałki (jak w Windows)"
 
 #: rules/base.xml:7225
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
@@ -4182,8 +4144,7 @@ msgstr "Klawisze specjalne (Ctrl+Alt+&lt;klawisz&gt;) obsługiwane przez serwer"
 
 #: rules/base.xml:7237
 msgid "Apple Aluminium: emulate PC keys (PrtSc, Scroll Lock, Pause, Num Lock)"
-msgstr ""
-"Apple Aluminium: emulacja klawiszy PC (PrtSc, ScrollLock, Pause, NumLock)"
+msgstr "Apple Aluminium: emulacja klawiszy PC (PrtSc, ScrollLock, Pause, NumLock)"
 
 #: rules/base.xml:7243
 msgid "Shift cancels Caps Lock"
@@ -4211,9 +4172,7 @@ msgstr "Shift + NumLock włącza klawisze kursorów"
 
 #: rules/base.xml:7279
 msgid "Allow breaking grabs with keyboard actions (warning: security risk)"
-msgstr ""
-"Akcje klawiatury mogą przełamywać przechwytywanie (uwaga: zagrożenie "
-"bezpieczeństwa)"
+msgstr "Akcje klawiatury mogą przełamywać przechwytywanie (uwaga: zagrożenie bezpieczeństwa)"
 
 #: rules/base.xml:7285
 msgid "Allow grab and window tree logging"
@@ -4256,36 +4215,20 @@ msgid "Right Alt chooses 5th level"
 msgstr "Prawy Alt wybiera poziom 5."
 
 #: rules/base.xml:7346
-msgid ""
-"&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed "
-"together with another 5th level chooser"
-msgstr ""
-"&lt;Mniejsze/Większe&gt; wybiera poziom 5.; jednorazowo blokuje przy "
-"naciśnięciu z innym klawiszem wybierającym poziom 5."
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "&lt;Mniejsze/Większe&gt; wybiera poziom 5.; jednorazowo blokuje przy naciśnięciu z innym klawiszem wybierającym poziom 5."
 
 #: rules/base.xml:7352
-msgid ""
-"Right Alt chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Prawy Alt wybiera poziom 5.; blokuje przy naciśnięciu z innym klawiszem "
-"wybierającym poziom 5."
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Prawy Alt wybiera poziom 5.; blokuje przy naciśnięciu z innym klawiszem wybierającym poziom 5."
 
 #: rules/base.xml:7358
-msgid ""
-"Left Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Lewy Win wybiera poziom 5.; blokuje przy naciśnięciu z innym klawiszem "
-"wybierającym poziom 5."
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Lewy Win wybiera poziom 5.; blokuje przy naciśnięciu z innym klawiszem wybierającym poziom 5."
 
 #: rules/base.xml:7364
-msgid ""
-"Right Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Prawy Win wybiera poziom 5.; blokuje przy naciśnięciu z innym klawiszem "
-"wybierającym poziom 5."
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Prawy Win wybiera poziom 5.; blokuje przy naciśnięciu z innym klawiszem wybierającym poziom 5."
 
 #: rules/base.xml:7410
 msgid "Using space key to input non-breaking space"
@@ -4308,85 +4251,52 @@ msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "Niełamliwa spacja na poziomie 3., nic na poziomie 4."
 
 #: rules/base.xml:7439
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
-msgstr ""
-"Niełamliwa spacja na poziomie 3., wąska niełamliwa spacja na poziomie 4."
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Niełamliwa spacja na poziomie 3., wąska niełamliwa spacja na poziomie 4."
 
 #: rules/base.xml:7445
 msgid "Non-breaking space at the 4th level"
 msgstr "Niełamliwa spacja na poziomie 4."
 
 #: rules/base.xml:7451
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
-msgstr ""
-"Niełamliwa spacja na poziomie 4., wąska niełamliwa spacja na poziomie 6."
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgstr "Niełamliwa spacja na poziomie 4., wąska niełamliwa spacja na poziomie 6."
 
 #: rules/base.xml:7457
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"Niełamliwa spacja na poziomie 4., wąska niełamliwa spacja na poziomie 6. (z "
-"Ctrl+Shift)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "Niełamliwa spacja na poziomie 4., wąska niełamliwa spacja na poziomie 6. (z Ctrl+Shift)"
 
 #: rules/base.xml:7463
 msgid "Zero-width non-joiner at the 2nd level"
 msgstr "Znak rozdzielający zerowej szerokości na poziomie 2."
 
 #: rules/base.xml:7469
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
-msgstr ""
-"Znak rozdzielający zerowej szerokości na poziomie 2., znak łączący zerowej "
-"szerokości na poziomie 3."
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgstr "Znak rozdzielający zerowej szerokości na poziomie 2., znak łączący zerowej szerokości na poziomie 3."
 
 #: rules/base.xml:7475
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"Znak rozdzielający zerowej szerokości na poziomie 2., znak łączący zerowej "
-"szerokości na poziomie 3., niełamliwa spacja na poziomie 4."
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "Znak rozdzielający zerowej szerokości na poziomie 2., znak łączący zerowej szerokości na poziomie 3., niełamliwa spacja na poziomie 4."
 
 #: rules/base.xml:7481
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
-msgstr ""
-"Znak rozdzielający zerowej szerokości na poziomie 2., niełamliwa spacja na "
-"poziomie 3."
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgstr "Znak rozdzielający zerowej szerokości na poziomie 2., niełamliwa spacja na poziomie 3."
 
 #: rules/base.xml:7487
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"Znak rozdzielający zerowej szerokości na poziomie 2., niełamliwa spacja na "
-"poziomie 3., nic na poziomie 4."
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "Znak rozdzielający zerowej szerokości na poziomie 2., niełamliwa spacja na poziomie 3., nic na poziomie 4."
 
 #: rules/base.xml:7493
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"Znak rozdzielający zerowej szerokości na poziomie 2., niełamliwa spacja na "
-"poziomie 3., znak łączący zerowej szerokości na poziomie 4."
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Znak rozdzielający zerowej szerokości na poziomie 2., niełamliwa spacja na poziomie 3., znak łączący zerowej szerokości na poziomie 4."
 
 #: rules/base.xml:7499
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"Znak rozdzielający zerowej szerokości na poziomie 2., niełamliwa spacja na "
-"poziomie 3., wąska niełamliwa spacja na poziomie 4."
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Znak rozdzielający zerowej szerokości na poziomie 2., niełamliwa spacja na poziomie 3., wąska niełamliwa spacja na poziomie 4."
 
 #: rules/base.xml:7505
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
-msgstr ""
-"Znak rozdzielający zerowej szerokości na poziomie 3., znak łączący zerowej "
-"szerokości na poziomie 4."
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Znak rozdzielający zerowej szerokości na poziomie 3., znak łączący zerowej szerokości na poziomie 4."
 
 #: rules/base.xml:7512
 msgid "Japanese keyboard options"
@@ -4650,8 +4560,7 @@ msgstr "Angielski (USA, międzynarodowy, łączenie unikodu z AltGr)"
 
 #: rules/base.extras.xml:353
 msgid "English (US, international AltGr Unicode combining, alternative)"
-msgstr ""
-"Angielski (USA, międzynarodowy, łączenie unikodu z AltGr, alternatywny)"
+msgstr "Angielski (USA, międzynarodowy, łączenie unikodu z AltGr, alternatywny)"
 
 #: rules/base.extras.xml:359
 msgid "Atsina"
@@ -4699,15 +4608,11 @@ msgstr "Angielski (Carpalx, pełna optymalizacja)"
 
 #: rules/base.extras.xml:441
 msgid "English (Carpalx, full optimization, intl., with dead keys)"
-msgstr ""
-"Angielski (Carpalx, pełna optymalizacja, międzynarodowy, z klawiszami "
-"akcentów)"
+msgstr "Angielski (Carpalx, pełna optymalizacja, międzynarodowy, z klawiszami akcentów)"
 
 #: rules/base.extras.xml:447
 msgid "English (Carpalx, full optimization, intl., with AltGr dead keys)"
-msgstr ""
-"Angielski (Carpalx, pełna optymalizacja, międzynarodowy, z klawiszami "
-"akcentów AltGr)"
+msgstr "Angielski (Carpalx, pełna optymalizacja, międzynarodowy, z klawiszami akcentów AltGr)"
 
 #: rules/base.extras.xml:453
 msgid "English (3l)"
@@ -4794,20 +4699,12 @@ msgid "Arabic (Sun Type 6/7)"
 msgstr "Arabski (Sun Type 6/7)"
 
 #: rules/base.extras.xml:747
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and European "
-"digits preferred)"
-msgstr ""
-"Arabski (z rozszerzeniami do innych języków pisanych alfabetem arabskim oraz "
-"preferowanymi cyframi europejskimi)"
+msgid "Arabic (with extensions for Arabic-written other languages and European digits preferred)"
+msgstr "Arabski (z rozszerzeniami do innych języków pisanych alfabetem arabskim oraz preferowanymi cyframi europejskimi)"
 
 #: rules/base.extras.xml:753
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and Arabic digits "
-"preferred)"
-msgstr ""
-"Arabski (z rozszerzeniami do innych języków pisanych alfabetem arabskim oraz "
-"preferowanymi cyframi arabskimi)"
+msgid "Arabic (with extensions for Arabic-written other languages and Arabic digits preferred)"
+msgstr "Arabski (z rozszerzeniami do innych języków pisanych alfabetem arabskim oraz preferowanymi cyframi arabskimi)"
 
 #: rules/base.extras.xml:759
 msgid "Ugaritic instead of Arabic"
@@ -4871,8 +4768,7 @@ msgstr "Francuski (Sun Type 6/7)"
 
 #: rules/base.extras.xml:921
 msgid "French (US, with French letters, with dead keys, alternative)"
-msgstr ""
-"Francuski (USA, z literami francuskimi, klawiszami akcentów, alternatywny)"
+msgstr "Francuski (USA, z literami francuskimi, klawiszami akcentów, alternatywny)"
 
 #: rules/base.extras.xml:927
 msgid "French (US, AZERTY)"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config-2.28.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2020-01-31 00:30+0000\n"
+"POT-Creation-Date: 2020-01-25 00:19+0000\n"
 "PO-Revision-Date: 2020-01-26 20:18+0100\n"
 "Last-Translator: Mario Blättermann <mario.blaettermann@gmail.com>\n"
 "Language-Team: German <translation-team-de@lists.sourceforge.net>\n"
@@ -767,12 +767,8 @@ msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
 msgstr "Truly Ergonomic Computer Keyboard, Modell 227 (breite Alt-Tasten)"
 
 #: rules/base.xml:1329
-msgid ""
-"Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
-"additional Super and Menu key)"
-msgstr ""
-"Truly Ergonomic Computer Keyboard, Modell 229 (Alt-Tasten in Standardgröße, "
-"zusätzliche Super- und Menütaste)"
+msgid "Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)"
+msgstr "Truly Ergonomic Computer Keyboard, Modell 229 (Alt-Tasten in Standardgröße, zusätzliche Super- und Menütaste)"
 
 #. Keyboard indicator for English layouts
 #. Keyboard indicator for Australian layouts
@@ -865,8 +861,7 @@ msgstr "Englisch (International, mit AltGr-Akzenttasten)"
 
 #: rules/base.xml:1454
 msgid "English (the divide/multiply keys toggle the layout)"
-msgstr ""
-"Englisch (die Divisions-/Multiplikationstasten schalten die Belegung um)"
+msgstr "Englisch (die Divisions-/Multiplikationstasten schalten die Belegung um)"
 
 #: rules/base.xml:1460
 msgid "Serbo-Croatian (US)"
@@ -2652,8 +2647,7 @@ msgstr "Polnisch (Dvorak)"
 
 #: rules/base.xml:4518
 msgid "Polish (Dvorak, with Polish quotes on quotemark key)"
-msgstr ""
-"Polnisch (Dvorak, polnische Anführungszeichen auf Taste mit Zitatzeichen)"
+msgstr "Polnisch (Dvorak, polnische Anführungszeichen auf Taste mit Zitatzeichen)"
 
 #: rules/base.xml:4524
 msgid "Polish (Dvorak, with Polish quotes on key 1)"
@@ -3381,8 +3375,7 @@ msgstr "Esperanto"
 
 #: rules/base.xml:5844
 msgid "Esperanto (displaced semicolon and quote, obsolete)"
-msgstr ""
-"Esperanto (falsch platziertes Semikolon und Anführungszeichen, veraltet)"
+msgstr "Esperanto (falsch platziertes Semikolon und Anführungszeichen, veraltet)"
 
 #. Keyboard indicator for Nepali layouts
 #: rules/base.xml:5853
@@ -3652,11 +3645,8 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "Menü (wenn gedrückt), Umschalttaste+Menü für das Menü"
 
 #: rules/base.xml:6369
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
-msgstr ""
-"Feststelltaste (gedrückt halten), Alt+Feststelltaste führen die normale "
-"Feststelltasten-Aktion aus"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgstr "Feststelltaste (gedrückt halten), Alt+Feststelltaste führen die normale Feststelltasten-Aktion aus"
 
 #: rules/base.xml:6375
 msgid "Right Ctrl (while pressed)"
@@ -3681,20 +3671,15 @@ msgstr "Umschalt-+Feststelltaste"
 
 #: rules/base.xml:6405
 msgid "Caps Lock to first layout; Shift+Caps Lock to last layout"
-msgstr ""
-"Feststelltaste zur ersten Belegung, Umschalttaste+Feststelltaste zur letzten "
-"Belegung"
+msgstr "Feststelltaste zur ersten Belegung, Umschalttaste+Feststelltaste zur letzten Belegung"
 
 #: rules/base.xml:6411
 msgid "Left Win to first layout; Right Win/Menu to last layout"
-msgstr ""
-"Linke Windows-Taste zur ersten Belegung, rechte Windows/Menütaste zur "
-"letzten Belegung"
+msgstr "Linke Windows-Taste zur ersten Belegung, rechte Windows/Menütaste zur letzten Belegung"
 
 #: rules/base.xml:6417
 msgid "Left Ctrl to first layout; Right Ctrl to last layout"
-msgstr ""
-"Linke Strg-Taste zur ersten Belegung, rechte Strg-Taste zur letzten Belegung"
+msgstr "Linke Strg-Taste zur ersten Belegung, rechte Strg-Taste zur letzten Belegung"
 
 #: rules/base.xml:6423
 msgid "Alt+Caps Lock"
@@ -3778,9 +3763,7 @@ msgstr "Rollen"
 
 #: rules/base.xml:6543
 msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
-msgstr ""
-"Linke Strg-Taste und linke Windows-Taste zur ersten Belegung, rechte Strg-"
-"Taste und Menütaste zur zweiten Belegung"
+msgstr "Linke Strg-Taste und linke Windows-Taste zur ersten Belegung, rechte Strg-Taste und Menütaste zur zweiten Belegung"
 
 #: rules/base.xml:6549
 msgid "Left Ctrl+Left Win"
@@ -3819,28 +3802,16 @@ msgid "&lt;Less/Greater&gt;"
 msgstr "&lt;Kleiner als/größer als&gt;"
 
 #: rules/base.xml:6647
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
-msgstr ""
-"Feststelltaste; sperrt einmalig, wenn zusammen mit einer anderen Taste zum "
-"Wählen der dritten Ebene gedrückt"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
+msgstr "Feststelltaste; sperrt einmalig, wenn zusammen mit einer anderen Taste zum Wählen der dritten Ebene gedrückt"
 
 #: rules/base.xml:6653
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
-msgstr ""
-"Backslash; sperrt einmalig, wenn zusammen mit einer anderen Taste zum Wählen "
-"der dritten Ebene gedrückt"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "Backslash; sperrt einmalig, wenn zusammen mit einer anderen Taste zum Wählen der dritten Ebene gedrückt"
 
 #: rules/base.xml:6659
-msgid ""
-"&lt;Less/Greater&gt;; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
-msgstr ""
-"&lt;Kleiner als/Größer als&gt; sperrt einmalig wenn gedrückt, zusammen mit "
-"einer anderen Taste zum Wählen der dritten Ebene"
+msgid "&lt;Less/Greater&gt;; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "&lt;Kleiner als/Größer als&gt; sperrt einmalig wenn gedrückt, zusammen mit einer anderen Taste zum Wählen der dritten Ebene"
 
 #: rules/base.xml:6667
 msgid "Ctrl position"
@@ -3923,12 +3894,8 @@ msgid "Unicode additions (arrows and math operators)"
 msgstr "Unicode-Ergänzungen (Pfeile und mathematische Operatoren)"
 
 #: rules/base.xml:6800
-msgid ""
-"Unicode additions (arrows and math operators; math operators on default "
-"level)"
-msgstr ""
-"Unicode-Ergänzungen (Pfeile und mathematische Operatoren; mathematische "
-"Operatoren befinden sich in der Standardebene)"
+msgid "Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Unicode-Ergänzungen (Pfeile und mathematische Operatoren; mathematische Operatoren befinden sich in der Standardebene)"
 
 #: rules/base.xml:6806
 msgid "Legacy Wang 724"
@@ -3939,12 +3906,8 @@ msgid "Wang 724 keypad with Unicode additions (arrows and math operators)"
 msgstr "Wang 724 mit Unicode-Ergänzungen (Pfeile und mathematische Operatoren)"
 
 #: rules/base.xml:6818
-msgid ""
-"Wang 724 keypad with Unicode additions (arrows and math operators; math "
-"operators on default level)"
-msgstr ""
-"Wang 724 mit Unicode-Ergänzungen (Pfeile und mathematische Operatoren; "
-"mathematische Operatoren in der Standardebene)"
+msgid "Wang 724 keypad with Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Wang 724 mit Unicode-Ergänzungen (Pfeile und mathematische Operatoren; mathematische Operatoren in der Standardebene)"
 
 #: rules/base.xml:6824
 msgid "Hexadecimal"
@@ -3982,9 +3945,7 @@ msgstr "Taste der vierten Ebene mit Komma"
 # momayyez? Was ist das?
 #: rules/base.xml:6876
 msgid "Four-level key with momayyez"
-msgstr ""
-"Taste der vierten Ebene mit Momayyez (arabisch-persisches "
-"Dezimaltrennzeichen)"
+msgstr "Taste der vierten Ebene mit Momayyez (arabisch-persisches Dezimaltrennzeichen)"
 
 #. This assumes the KP_ abstract symbols are actually useful for some apps
 #. The description needs to be rewritten
@@ -4002,32 +3963,23 @@ msgstr "Verhalten der Feststelltaste"
 
 #: rules/base.xml:6905
 msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Feststelltaste verwendet interne Großschreibung. Umschalttaste »unterbricht« "
-"Feststelltaste"
+msgstr "Feststelltaste verwendet interne Großschreibung. Umschalttaste »unterbricht« Feststelltaste"
 
 #: rules/base.xml:6911
 msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
-msgstr ""
-"Feststelltaste verwendet interne Großschreibung. Umschalttaste beeinflusst "
-"Feststelltaste nicht"
+msgstr "Feststelltaste verwendet interne Großschreibung. Umschalttaste beeinflusst Feststelltaste nicht"
 
 #: rules/base.xml:6917
 msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Feststelltaste arbeitet als Umschalttaste mit Sperrung. Umschalttaste "
-"»unterbricht« Feststelltaste"
+msgstr "Feststelltaste arbeitet als Umschalttaste mit Sperrung. Umschalttaste »unterbricht« Feststelltaste"
 
 #: rules/base.xml:6923
 msgid "Caps Lock acts as Shift with locking; Shift does not affect Caps Lock"
-msgstr ""
-"Feststelltaste arbeitet als Umschalttaste mit Sperrung. Umschalttaste "
-"beeinflusst Feststelltaste nicht"
+msgstr "Feststelltaste arbeitet als Umschalttaste mit Sperrung. Umschalttaste beeinflusst Feststelltaste nicht"
 
 #: rules/base.xml:6929
 msgid "Caps Lock toggles normal capitalization of alphabetic characters"
-msgstr ""
-"Feststelltaste kehrt die normale Großschreibung alphabetischer Zeichen um"
+msgstr "Feststelltaste kehrt die normale Großschreibung alphabetischer Zeichen um"
 
 #: rules/base.xml:6935
 msgid "Caps Lock toggles ShiftLock (affects all keys)"
@@ -4042,12 +3994,8 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "Feststelltaste als zusätzliche Esc-Taste verwenden"
 
 #: rules/base.xml:6953
-msgid ""
-"Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves "
-"like regular Caps Lock"
-msgstr ""
-"Unveränderte Feststelltaste zur zusätzlichen Esc-Taste machen, aber "
-"Umschalttaste und Feststelltaste verhalten sich wie reguläre Feststelltaste"
+msgid "Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves like regular Caps Lock"
+msgstr "Unveränderte Feststelltaste zur zusätzlichen Esc-Taste machen, aber Umschalttaste und Feststelltaste verhalten sich wie reguläre Feststelltaste"
 
 #: rules/base.xml:6959
 msgid "Make Caps Lock an additional Backspace"
@@ -4103,8 +4051,7 @@ msgstr "Strg ist den Windows-Tasten und den üblichen Strg-Tasten zugeordnet"
 
 #: rules/base.xml:7038
 msgid "Ctrl is mapped to Alt; Alt is mapped to Win"
-msgstr ""
-"Strg ist den Alt-Tasten zugeordnet, Alt ist den Windows-Tasten zugeordnet"
+msgstr "Strg ist den Alt-Tasten zugeordnet, Alt ist den Windows-Tasten zugeordnet"
 
 #: rules/base.xml:7044
 msgid "Meta is mapped to Win"
@@ -4132,8 +4079,7 @@ msgstr "Alt-Taste ist gegen Windows-Taste vertauscht"
 
 #: rules/base.xml:7080
 msgid "Win is mapped to PrtSc and the usual Win"
-msgstr ""
-"Windows-Taste ist der Druck-Taste und der üblichen Windows-Taste zugeordnet"
+msgstr "Windows-Taste ist der Druck-Taste und der üblichen Windows-Taste zugeordnet"
 
 #: rules/base.xml:7088
 msgid "Position of Compose key"
@@ -4188,18 +4134,12 @@ msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "Tasten des Nummernblocks geben immer Ziffern ein (wie bei macOS)"
 
 #: rules/base.xml:7219
-msgid ""
-"Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in "
-"Windows)"
-msgstr ""
-"NumLock an: Ziffern, Umschalttaste wechselt zu Pfeiltasten, Numlock aus: "
-"Pfeiltasten (wie in Windows)"
+msgid "Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in Windows)"
+msgstr "NumLock an: Ziffern, Umschalttaste wechselt zu Pfeiltasten, Numlock aus: Pfeiltasten (wie in Windows)"
 
 #: rules/base.xml:7225
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
-msgstr ""
-"Umschalttaste deaktiviert NumLock nicht, wechselt stattdessen in die dritte "
-"Tastaturebene"
+msgstr "Umschalttaste deaktiviert NumLock nicht, wechselt stattdessen in die dritte Tastaturebene"
 
 #: rules/base.xml:7231
 msgid "Special keys (Ctrl+Alt+&lt;key&gt;) handled in a server"
@@ -4207,8 +4147,7 @@ msgstr "Spezialtasten für Server (Strg+Alt+&lt;Taste&gt;)"
 
 #: rules/base.xml:7237
 msgid "Apple Aluminium: emulate PC keys (PrtSc, Scroll Lock, Pause, Num Lock)"
-msgstr ""
-"Apple Aluminium: PC-Tasten emulieren (Druck, Scroll_Lock, Pause, NumLock)"
+msgstr "Apple Aluminium: PC-Tasten emulieren (Druck, Scroll_Lock, Pause, NumLock)"
 
 #: rules/base.xml:7243
 msgid "Shift cancels Caps Lock"
@@ -4224,9 +4163,7 @@ msgstr "Beide Umschalttasten gleichzeitig schalten CapsLock ein und aus"
 
 #: rules/base.xml:7261
 msgid "Both Shift together enable Caps Lock; one Shift key disables it"
-msgstr ""
-"Beide Umschalttasten gleichzeitig schalten CapsLock ein, eine Umschalttaste "
-"deaktiviert"
+msgstr "Beide Umschalttasten gleichzeitig schalten CapsLock ein, eine Umschalttaste deaktiviert"
 
 #: rules/base.xml:7267
 msgid "Both Shift together enable Shift Lock"
@@ -4238,8 +4175,7 @@ msgstr "Umschalttaste + NumLock schaltet Tastaturmaus ein und aus"
 
 #: rules/base.xml:7279
 msgid "Allow breaking grabs with keyboard actions (warning: security risk)"
-msgstr ""
-"Erlauben, Grabs mit Tastaturaktionen abzubrechen (Achtung: Sicherheitsrisiko)"
+msgstr "Erlauben, Grabs mit Tastaturaktionen abzubrechen (Achtung: Sicherheitsrisiko)"
 
 #: rules/base.xml:7285
 msgid "Allow grab and window tree logging"
@@ -4282,36 +4218,20 @@ msgid "Right Alt chooses 5th level"
 msgstr "Rechte Alt-Taste wählt die fünfte Tastaturebene"
 
 #: rules/base.xml:7346
-msgid ""
-"&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed "
-"together with another 5th level chooser"
-msgstr ""
-"&lt;Kleiner als/Größer als&gt; wählt die fünfte Ebene, sperrt einmalig, wenn "
-"zusammen mit einer anderen Taste zum Wählen der dritten Ebene gedrückt"
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "&lt;Kleiner als/Größer als&gt; wählt die fünfte Ebene, sperrt einmalig, wenn zusammen mit einer anderen Taste zum Wählen der dritten Ebene gedrückt"
 
 #: rules/base.xml:7352
-msgid ""
-"Right Alt chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Rechte Alt-Taste wählt die fünfte Ebene, sperrt einmalig, wenn zusammen mit "
-"einer anderen Taste zum Wählen der fünften Ebene gedrückt"
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Rechte Alt-Taste wählt die fünfte Ebene, sperrt einmalig, wenn zusammen mit einer anderen Taste zum Wählen der fünften Ebene gedrückt"
 
 #: rules/base.xml:7358
-msgid ""
-"Left Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Linke Windows-Taste wählt die fünfte Ebene, sperrt einmalig, wenn zusammen "
-"mit einer anderen Taste zum Wählen der fünften Ebene gedrückt"
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Linke Windows-Taste wählt die fünfte Ebene, sperrt einmalig, wenn zusammen mit einer anderen Taste zum Wählen der fünften Ebene gedrückt"
 
 #: rules/base.xml:7364
-msgid ""
-"Right Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Rechte Windows-Taste wählt die fünfte Ebene, sperrt einmalig, wenn zusammen "
-"mit einer anderen Taste zum Wählen der fünften Ebene gedrückt"
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Rechte Windows-Taste wählt die fünfte Ebene, sperrt einmalig, wenn zusammen mit einer anderen Taste zum Wählen der fünften Ebene gedrückt"
 
 #: rules/base.xml:7410
 msgid "Using space key to input non-breaking space"
@@ -4331,96 +4251,55 @@ msgstr "Nicht umbrechbares Leerzeichen in der dritten Tastaturebene"
 
 #: rules/base.xml:7433
 msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
-msgstr ""
-"Nicht umbrechbares Leerzeichen in der dritten Tastaturebene, nichts in der "
-"vierten Ebene"
+msgstr "Nicht umbrechbares Leerzeichen in der dritten Tastaturebene, nichts in der vierten Ebene"
 
 #: rules/base.xml:7439
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
-msgstr ""
-"Nicht umbrechbares Leerzeichen in der dritten Tastaturebene, schmales nicht "
-"umbrechbares Leerzeichen in der vierten Ebene"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Nicht umbrechbares Leerzeichen in der dritten Tastaturebene, schmales nicht umbrechbares Leerzeichen in der vierten Ebene"
 
 #: rules/base.xml:7445
 msgid "Non-breaking space at the 4th level"
 msgstr "Nicht umbrechbares Leerzeichen in der vierten Tastaturebene"
 
 #: rules/base.xml:7451
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
-msgstr ""
-"Nicht umbrechbares Leerzeichen in der vierten Tastaturebene, schmales nicht "
-"umbrechbares Leerzeichen in der sechsten Ebene"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgstr "Nicht umbrechbares Leerzeichen in der vierten Tastaturebene, schmales nicht umbrechbares Leerzeichen in der sechsten Ebene"
 
 #: rules/base.xml:7457
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"Nicht umbrechbares Leerzeichen in der vierten Tastaturebene, schmales nicht "
-"umbrechbares Leerzeichen in der sechsten Ebene (mit Strg + Umschalttaste)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "Nicht umbrechbares Leerzeichen in der vierten Tastaturebene, schmales nicht umbrechbares Leerzeichen in der sechsten Ebene (mit Strg + Umschalttaste)"
 
 #: rules/base.xml:7463
 msgid "Zero-width non-joiner at the 2nd level"
 msgstr "Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene"
 
 #: rules/base.xml:7469
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
-msgstr ""
-"Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, "
-"verbindendes Zeichen der Breite Null in der dritten Ebene"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgstr "Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, verbindendes Zeichen der Breite Null in der dritten Ebene"
 
 #: rules/base.xml:7475
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, "
-"verbindendes Zeichen der Breite Null in der dritten Ebene, nicht "
-"umbrechbares Leerzeichen in der vierten Tastaturebene"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, verbindendes Zeichen der Breite Null in der dritten Ebene, nicht umbrechbares Leerzeichen in der vierten Tastaturebene"
 
 #: rules/base.xml:7481
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
-msgstr ""
-"Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, nicht "
-"umbrechbares Leerzeichen in der dritten Ebene"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgstr "Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, nicht umbrechbares Leerzeichen in der dritten Ebene"
 
 #: rules/base.xml:7487
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, nicht "
-"umbrechbares Leerzeichen in der dritten Tastaturebene, nichts in der vierten "
-"Ebene"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, nicht umbrechbares Leerzeichen in der dritten Tastaturebene, nichts in der vierten Ebene"
 
 #: rules/base.xml:7493
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, nicht "
-"umbrechbares Leerzeichen in der dritten Tastaturebene, verbindendes Zeichen "
-"der Breite Null in der vierten Ebene"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, nicht umbrechbares Leerzeichen in der dritten Tastaturebene, verbindendes Zeichen der Breite Null in der vierten Ebene"
 
 #: rules/base.xml:7499
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, nicht "
-"umbrechbares Leerzeichen in der dritten Tastaturebene, schmales nicht "
-"umbrechbares Leerzeichen in der vierten Ebene"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Nicht verbindendes Zeichen der Breite Null in der zweiten Ebene, nicht umbrechbares Leerzeichen in der dritten Tastaturebene, schmales nicht umbrechbares Leerzeichen in der vierten Ebene"
 
 #: rules/base.xml:7505
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
-msgstr ""
-"Nicht verbindendes Zeichen der Breite Null in der dritten Ebene, "
-"verbindendes Zeichen der Breite Null in der vierten Ebene"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Nicht verbindendes Zeichen der Breite Null in der dritten Ebene, verbindendes Zeichen der Breite Null in der vierten Ebene"
 
 #: rules/base.xml:7512
 msgid "Japanese keyboard options"
@@ -4735,14 +4614,11 @@ msgstr "Englisch (Carpalx, vollständige Optimierung)"
 
 #: rules/base.extras.xml:441
 msgid "English (Carpalx, full optimization, intl., with dead keys)"
-msgstr ""
-"Englisch (Carpalx, vollständige Optimierung, international, mit Akzenttasten)"
+msgstr "Englisch (Carpalx, vollständige Optimierung, international, mit Akzenttasten)"
 
 #: rules/base.extras.xml:447
 msgid "English (Carpalx, full optimization, intl., with AltGr dead keys)"
-msgstr ""
-"Englisch (Carpalx, vollständige Optimierung, international, mit AltGr-"
-"Akzenttasten)"
+msgstr "Englisch (Carpalx, vollständige Optimierung, international, mit AltGr-Akzenttasten)"
 
 #: rules/base.extras.xml:453
 msgid "English (3l)"
@@ -4830,20 +4706,12 @@ msgid "Arabic (Sun Type 6/7)"
 msgstr "Arabisch (Sun Typ 6/7)"
 
 #: rules/base.extras.xml:747
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and European "
-"digits preferred)"
-msgstr ""
-"Arabisch (mit Erweiterungen für arabisch geschriebene andere Sprachen, "
-"europäische Ziffern bevorzugt)"
+msgid "Arabic (with extensions for Arabic-written other languages and European digits preferred)"
+msgstr "Arabisch (mit Erweiterungen für arabisch geschriebene andere Sprachen, europäische Ziffern bevorzugt)"
 
 #: rules/base.extras.xml:753
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and Arabic digits "
-"preferred)"
-msgstr ""
-"Arabisch (mit Erweiterungen für arabisch geschriebene andere Sprachen, "
-"arabische Ziffern bevorzugt)"
+msgid "Arabic (with extensions for Arabic-written other languages and Arabic digits preferred)"
+msgstr "Arabisch (mit Erweiterungen für arabisch geschriebene andere Sprachen, arabische Ziffern bevorzugt)"
 
 #: rules/base.extras.xml:759
 msgid "Ugaritic instead of Arabic"
@@ -4907,8 +4775,7 @@ msgstr "Französisch (Sun Typ 6/7)"
 
 #: rules/base.extras.xml:921
 msgid "French (US, with French letters, with dead keys, alternative)"
-msgstr ""
-"Französisch (US, mit französischen Buchstaben, mit Akzenttasten, alternativ)"
+msgstr "Französisch (US, mit französischen Buchstaben, mit Akzenttasten, alternativ)"
 
 #: rules/base.extras.xml:927
 msgid "French (US, AZERTY)"

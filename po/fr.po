@@ -11,10 +11,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config 2.28.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2020-01-31 00:30+0000\n"
+"POT-Creation-Date: 2020-01-25 00:19+0000\n"
 "PO-Revision-Date: 2020-01-26 18:21+0100\n"
-"Last-Translator: Jean-Philippe Guérard <jean-philippe.guerard@corbeaunoir."
-"org>\n"
+"Last-Translator: Jean-Philippe Guérard <jean-philippe.guerard@corbeaunoir.org>\n"
 "Language-Team: French <traduc@traduc.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -774,12 +773,8 @@ msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
 msgstr "Truly Ergonomic Computer Keyboard Model 227 (touches Alt larges)"
 
 #: rules/base.xml:1329
-msgid ""
-"Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
-"additional Super and Menu key)"
-msgstr ""
-"Truly Ergonomic Computer Keyboard Model 229 (touches Alt de taille standard, "
-"touches Super et Menu)"
+msgid "Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)"
+msgstr "Truly Ergonomic Computer Keyboard Model 229 (touches Alt de taille standard, touches Super et Menu)"
 
 #. Keyboard indicator for English layouts
 #. Keyboard indicator for Australian layouts
@@ -3770,10 +3765,8 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "Menu (maintenu), Maj.+Menu pour Menu"
 
 #: rules/base.xml:6369
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
-msgstr ""
-"Verr. maj. (maintenu), Alt + Verr. maj. joue le rôle original de Verr. maj."
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgstr "Verr. maj. (maintenu), Alt + Verr. maj. joue le rôle original de Verr. maj."
 
 #: rules/base.xml:6375
 msgid "Right Ctrl (while pressed)"
@@ -3798,14 +3791,11 @@ msgstr "Maj.+ Verr. maj."
 
 #: rules/base.xml:6405
 msgid "Caps Lock to first layout; Shift+Caps Lock to last layout"
-msgstr ""
-"Verr. maj. (première disposition), Maj. + Verr. maj. (dernière disposition)"
+msgstr "Verr. maj. (première disposition), Maj. + Verr. maj. (dernière disposition)"
 
 #: rules/base.xml:6411
 msgid "Left Win to first layout; Right Win/Menu to last layout"
-msgstr ""
-"Touche Windows gauche (première disposition), touche Windows droite "
-"(dernière disposition)"
+msgstr "Touche Windows gauche (première disposition), touche Windows droite (dernière disposition)"
 
 #: rules/base.xml:6417
 msgid "Left Ctrl to first layout; Right Ctrl to last layout"
@@ -3893,9 +3883,7 @@ msgstr "Arrêt défilement"
 
 #: rules/base.xml:6543
 msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
-msgstr ""
-"Ctrl gauche + Windows gauche (première disposition), Ctrl droit + Menu "
-"(seconde disposition)"
+msgstr "Ctrl gauche + Windows gauche (première disposition), Ctrl droit + Menu (seconde disposition)"
 
 #: rules/base.xml:6549
 msgid "Left Ctrl+Left Win"
@@ -3935,27 +3923,16 @@ msgid "&lt;Less/Greater&gt;"
 msgstr "&lt;Plus petit/Plus grand&gt;"
 
 #: rules/base.xml:6647
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
-msgstr ""
-"Verr. maj., avec un autre sélecteur de niveau 3, enclenche une fois ce niveau"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
+msgstr "Verr. maj., avec un autre sélecteur de niveau 3, enclenche une fois ce niveau"
 
 #: rules/base.xml:6653
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
-msgstr ""
-"La barre oblique inverse, avec  un autre sélecteur de niveau 3, enclenche "
-"une fois ce niveau"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "La barre oblique inverse, avec  un autre sélecteur de niveau 3, enclenche une fois ce niveau"
 
 #: rules/base.xml:6659
-msgid ""
-"&lt;Less/Greater&gt;; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
-msgstr ""
-"&lt;Plus petit/Plus grand&gt;, avec  un autre sélecteur de niveau 3, "
-"enclenche une fois ce niveau"
+msgid "&lt;Less/Greater&gt;; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "&lt;Plus petit/Plus grand&gt;, avec  un autre sélecteur de niveau 3, enclenche une fois ce niveau"
 
 #: rules/base.xml:6667
 msgid "Ctrl position"
@@ -4039,12 +4016,8 @@ msgid "Unicode additions (arrows and math operators)"
 msgstr "Ajouts Unicode (opérateurs mathématiques et flèches)"
 
 #: rules/base.xml:6800
-msgid ""
-"Unicode additions (arrows and math operators; math operators on default "
-"level)"
-msgstr ""
-"Ajouts Unicode (opérateurs mathématiques et flèches ; opérateurs "
-"mathématiques au niveau par défaut)"
+msgid "Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Ajouts Unicode (opérateurs mathématiques et flèches ; opérateurs mathématiques au niveau par défaut)"
 
 #: rules/base.xml:6806
 msgid "Legacy Wang 724"
@@ -4055,12 +4028,8 @@ msgid "Wang 724 keypad with Unicode additions (arrows and math operators)"
 msgstr "Wang 724 avec ajouts Unicode (opérateurs mathématiques et flèches)"
 
 #: rules/base.xml:6818
-msgid ""
-"Wang 724 keypad with Unicode additions (arrows and math operators; math "
-"operators on default level)"
-msgstr ""
-"Wang 724 avec ajouts Unicode (opérateurs mathématiques et flèches ; "
-"opérateurs mathématiques au niveau par défaut)"
+msgid "Wang 724 keypad with Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Wang 724 avec ajouts Unicode (opérateurs mathématiques et flèches ; opérateurs mathématiques au niveau par défaut)"
 
 #: rules/base.xml:6824
 msgid "Hexadecimal"
@@ -4116,32 +4085,23 @@ msgstr "Comportement de la touche Verr. maj."
 
 #: rules/base.xml:6905
 msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Verr. maj. utilise la mise en majuscule interne ; Maj. annule temporairement "
-"Verr. maj."
+msgstr "Verr. maj. utilise la mise en majuscule interne ; Maj. annule temporairement Verr. maj."
 
 #: rules/base.xml:6911
 msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
-msgstr ""
-"Verr. maj. utilise la mise en majuscule interne ; Maj. n'a pas d'effet sur "
-"Verr. maj."
+msgstr "Verr. maj. utilise la mise en majuscule interne ; Maj. n'a pas d'effet sur Verr. maj."
 
 #: rules/base.xml:6917
 msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Verr. maj. agit comme un verrouillage de maj ; Maj. l'annule temporairement"
+msgstr "Verr. maj. agit comme un verrouillage de maj ; Maj. l'annule temporairement"
 
 #: rules/base.xml:6923
 msgid "Caps Lock acts as Shift with locking; Shift does not affect Caps Lock"
-msgstr ""
-"Verr. maj. agit comme Maj. quand il est verrouillé ; Maj. n'a pas d'effet "
-"sur Verr. maj."
+msgstr "Verr. maj. agit comme Maj. quand il est verrouillé ; Maj. n'a pas d'effet sur Verr. maj."
 
 #: rules/base.xml:6929
 msgid "Caps Lock toggles normal capitalization of alphabetic characters"
-msgstr ""
-"Verr. maj. active ou désactive la mise en majuscule usuelle des caractères "
-"alphabétiques"
+msgstr "Verr. maj. active ou désactive la mise en majuscule usuelle des caractères alphabétiques"
 
 #: rules/base.xml:6935
 msgid "Caps Lock toggles ShiftLock (affects all keys)"
@@ -4156,12 +4116,8 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "Faire de Verr. maj. un Échap. supplémentaire."
 
 #: rules/base.xml:6953
-msgid ""
-"Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves "
-"like regular Caps Lock"
-msgstr ""
-"Faire de Verr. maj. un Échap. supplémentaire, mais Maj. + Verr. maj. a "
-"l'effet du Verr. maj. habituel"
+msgid "Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves like regular Caps Lock"
+msgstr "Faire de Verr. maj. un Échap. supplémentaire, mais Maj. + Verr. maj. a l'effet du Verr. maj. habituel"
 
 #: rules/base.xml:6959
 msgid "Make Caps Lock an additional Backspace"
@@ -4213,8 +4169,7 @@ msgstr "Alt est placé sur les touches Windows (et les touches Alt habituelles)"
 
 #: rules/base.xml:7032
 msgid "Ctrl is mapped to Win and the usual Ctrl keys"
-msgstr ""
-"Ctrl est placé sur les touches Windows (et les touches Ctrl habituelles)"
+msgstr "Ctrl est placé sur les touches Windows (et les touches Ctrl habituelles)"
 
 #: rules/base.xml:7038
 msgid "Ctrl is mapped to Alt; Alt is mapped to Win"
@@ -4246,8 +4201,7 @@ msgstr "Alt échangé avec Windows"
 
 #: rules/base.xml:7080
 msgid "Win is mapped to PrtSc and the usual Win"
-msgstr ""
-"La touche Windows est placé sur Impr. écr. (en plus de la touche Windows)"
+msgstr "La touche Windows est placé sur Impr. écr. (en plus de la touche Windows)"
 
 #: rules/base.xml:7088
 msgid "Position of Compose key"
@@ -4299,16 +4253,11 @@ msgstr "Touches du pavé numérique par défaut"
 
 #: rules/base.xml:7213
 msgid "Numeric keypad always enters digits (as in macOS)"
-msgstr ""
-"Les touches du pavé numérique sont toujours numériques (comme sur Mac OS)"
+msgstr "Les touches du pavé numérique sont toujours numériques (comme sur Mac OS)"
 
 #: rules/base.xml:7219
-msgid ""
-"Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in "
-"Windows)"
-msgstr ""
-"Verr. num. activé : chiffres ; maj. pour les flèches. Verr. num. désactivé : "
-"flèches (comme Windows)"
+msgid "Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in Windows)"
+msgstr "Verr. num. activé : chiffres ; maj. pour les flèches. Verr. num. désactivé : flèches (comme Windows)"
 
 #: rules/base.xml:7225
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
@@ -4317,15 +4266,11 @@ msgstr "Maj. n'annule pas Verr. num., mais sélectionne le niveau 3"
 # https://help.ubuntu.com/7.04/user-guide/C/prefs-hardware.html
 #: rules/base.xml:7231
 msgid "Special keys (Ctrl+Alt+&lt;key&gt;) handled in a server"
-msgstr ""
-"Les combinaisons spéciales (Ctrl+Alt+&lt;touche&gt;) sont traitées par le "
-"serveur X"
+msgstr "Les combinaisons spéciales (Ctrl+Alt+&lt;touche&gt;) sont traitées par le serveur X"
 
 #: rules/base.xml:7237
 msgid "Apple Aluminium: emulate PC keys (PrtSc, Scroll Lock, Pause, Num Lock)"
-msgstr ""
-"Apple Aluminium : émulation des touches PC (Impr. écr. ; défil. ; pause ; "
-"Verr. Num.)"
+msgstr "Apple Aluminium : émulation des touches PC (Impr. écr. ; défil. ; pause ; Verr. Num.)"
 
 #: rules/base.xml:7243
 msgid "Shift cancels Caps Lock"
@@ -4341,9 +4286,7 @@ msgstr "Les 2 touches Maj. ensemble activent Verr. maj."
 
 #: rules/base.xml:7261
 msgid "Both Shift together enable Caps Lock; one Shift key disables it"
-msgstr ""
-"Les 2 touches Maj. ensemble activent le Verr. maj., la touche Maj. le "
-"désactive"
+msgstr "Les 2 touches Maj. ensemble activent le Verr. maj., la touche Maj. le désactive"
 
 #: rules/base.xml:7267
 msgid "Both Shift together enable Shift Lock"
@@ -4355,9 +4298,7 @@ msgstr "Maj. + VerrNum bascule le contrôle souris au clavier (PointerKeys) "
 
 #: rules/base.xml:7279
 msgid "Allow breaking grabs with keyboard actions (warning: security risk)"
-msgstr ""
-"Autorise des actions clavier à casser les captures (attention : faille de "
-"sécurité)"
+msgstr "Autorise des actions clavier à casser les captures (attention : faille de sécurité)"
 
 #: rules/base.xml:7285
 msgid "Allow grab and window tree logging"
@@ -4400,36 +4341,20 @@ msgid "Right Alt chooses 5th level"
 msgstr "Alt droite sélectionne le niveau 5"
 
 #: rules/base.xml:7346
-msgid ""
-"&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed "
-"together with another 5th level chooser"
-msgstr ""
-"&lt;Plus petit/Plus grand&gt; sélectionne le niveau 5 ; avec un autre "
-"sélecteur de niveau 5, enclenche une fois ce niveau"
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "&lt;Plus petit/Plus grand&gt; sélectionne le niveau 5 ; avec un autre sélecteur de niveau 5, enclenche une fois ce niveau"
 
 #: rules/base.xml:7352
-msgid ""
-"Right Alt chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Alt. droite sélectionne le niveau 5 ; avec un autre sélecteur de niveau 5, "
-"enclenche une fois ce niveau"
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Alt. droite sélectionne le niveau 5 ; avec un autre sélecteur de niveau 5, enclenche une fois ce niveau"
 
 #: rules/base.xml:7358
-msgid ""
-"Left Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Windows gauche sélectionne le niveau 5 ; avec un autre sélecteur de niveau "
-"5, enclenche une fois ce niveau"
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Windows gauche sélectionne le niveau 5 ; avec un autre sélecteur de niveau 5, enclenche une fois ce niveau"
 
 #: rules/base.xml:7364
-msgid ""
-"Right Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Windows droite sélectionne le niveau 5 ; avec un autre sélecteur de niveau "
-"5, enclenche une fois ce niveau"
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Windows droite sélectionne le niveau 5 ; avec un autre sélecteur de niveau 5, enclenche une fois ce niveau"
 
 #: rules/base.xml:7410
 msgid "Using space key to input non-breaking space"
@@ -4452,8 +4377,7 @@ msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "Espace insécable au niveau 3, rien au niveau 4"
 
 #: rules/base.xml:7439
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
 msgstr "Espace insécable au niveau 3, espace fine insécable au niveau 4"
 
 #: rules/base.xml:7445
@@ -4461,17 +4385,12 @@ msgid "Non-breaking space at the 4th level"
 msgstr "Espace insécable au niveau 4"
 
 #: rules/base.xml:7451
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
 msgstr "Espace insécable au niveau 4, espace fine insécable au niveau 6"
 
 #: rules/base.xml:7457
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"Espace insécable au niveau 4, espace fine insécable au niveau 6 (via Ctrl"
-"+Maj.)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "Espace insécable au niveau 4, espace fine insécable au niveau 6 (via Ctrl+Maj.)"
 
 # http://hapax.qc.ca/glossaire.htm
 #: rules/base.xml:7463
@@ -4479,50 +4398,31 @@ msgid "Zero-width non-joiner at the 2nd level"
 msgstr "Antiliant sans chasse au niveau 2"
 
 #: rules/base.xml:7469
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
 msgstr "Antiliant sans chasse au niveau 2, liant sans chasse au niveau 3"
 
 #: rules/base.xml:7475
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"Antiliant sans chasse au niveau 2, liant sans chasse au niveau 3, espace "
-"insécable au niveau 4"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "Antiliant sans chasse au niveau 2, liant sans chasse au niveau 3, espace insécable au niveau 4"
 
 #: rules/base.xml:7481
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
 msgstr "Antiliant sans chasse au niveau 2. espace insécable au niveau 3"
 
 #: rules/base.xml:7487
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"Antiliant sans chasse au niveau 2, espace insécable au niveau 3, rien au "
-"niveau 4"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "Antiliant sans chasse au niveau 2, espace insécable au niveau 3, rien au niveau 4"
 
 #: rules/base.xml:7493
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"Antiliant sans chasse au niveau 2. espace insécable au niveau 3, liant sans "
-"chasse au niveau 4"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Antiliant sans chasse au niveau 2. espace insécable au niveau 3, liant sans chasse au niveau 4"
 
 #: rules/base.xml:7499
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"Antiliant sans chasse au niveau 2. espace insécable au niveau 3, espace fine "
-"insécable au niveau 4"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Antiliant sans chasse au niveau 2. espace insécable au niveau 3, espace fine insécable au niveau 4"
 
 #: rules/base.xml:7505
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
 msgstr "Antiliant sans chasse au niveau 3, liant sans chasse au niveau 4"
 
 #: rules/base.xml:7512
@@ -4852,15 +4752,12 @@ msgstr "Anglais (Carpalx, complètement optimisé)"
 # https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
 #: rules/base.extras.xml:441
 msgid "English (Carpalx, full optimization, intl., with dead keys)"
-msgstr ""
-"Anglais (Carpalx,  complètement optimisé, internat., avec touches mortes)"
+msgstr "Anglais (Carpalx,  complètement optimisé, internat., avec touches mortes)"
 
 # https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
 #: rules/base.extras.xml:447
 msgid "English (Carpalx, full optimization, intl., with AltGr dead keys)"
-msgstr ""
-"Anglais (Carpalx,  complètement optimisé, internat., touches mortes via "
-"AltGr)"
+msgstr "Anglais (Carpalx,  complètement optimisé, internat., touches mortes via AltGr)"
 
 # http://inside.mines.edu/~jrosenth/3l/
 #: rules/base.extras.xml:453
@@ -4951,20 +4848,12 @@ msgid "Arabic (Sun Type 6/7)"
 msgstr "Arabe (Sun type 6/7)"
 
 #: rules/base.extras.xml:747
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and European "
-"digits preferred)"
-msgstr ""
-"Arabe (avec extensions pour l'écriture arabe d'autres langues et chiffres "
-"européens en priorité)"
+msgid "Arabic (with extensions for Arabic-written other languages and European digits preferred)"
+msgstr "Arabe (avec extensions pour l'écriture arabe d'autres langues et chiffres européens en priorité)"
 
 #: rules/base.extras.xml:753
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and Arabic digits "
-"preferred)"
-msgstr ""
-"Arabe (avec extensions pour l'écriture arabe d'autres langues et chiffres "
-"arabes en priorité)"
+msgid "Arabic (with extensions for Arabic-written other languages and Arabic digits preferred)"
+msgstr "Arabe (avec extensions pour l'écriture arabe d'autres langues et chiffres arabes en priorité)"
 
 #: rules/base.extras.xml:759
 msgid "Ugaritic instead of Arabic"

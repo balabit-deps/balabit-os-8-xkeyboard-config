@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xkeyboard-config-2.28.99\n"
 "Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
-"POT-Creation-Date: 2020-01-31 00:30+0000\n"
+"POT-Creation-Date: 2020-01-25 00:19+0000\n"
 "PO-Revision-Date: 2020-01-26 12:39+0200\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
@@ -21,8 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
-"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 20.03.70\n"
 
 #: rules/base.xml:8
@@ -774,12 +773,8 @@ msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
 msgstr "Truly Ergonomic Computer Keyboard, модель 227 (широкі клавіші Alt)"
 
 #: rules/base.xml:1329
-msgid ""
-"Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
-"additional Super and Menu key)"
-msgstr ""
-"Truly Ergonomic Computer Keyboard, модель 229 (клавіші Alt стандартного "
-"розміру, додаткові клавіші Super та Menu)"
+msgid "Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)"
+msgstr "Truly Ergonomic Computer Keyboard, модель 229 (клавіші Alt стандартного розміру, додаткові клавіші Super та Menu)"
 
 #. Keyboard indicator for English layouts
 #. Keyboard indicator for Australian layouts
@@ -3656,11 +3651,8 @@ msgid "Menu (while pressed), Shift+Menu for Menu"
 msgstr "Menu (доки натиснено), Shift+Menu для виклику меню"
 
 #: rules/base.xml:6369
-msgid ""
-"Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
-msgstr ""
-"Caps Lock (доки натиснено), Alt+Caps Lock виконує оригінальну функцію Caps "
-"Lock"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgstr "Caps Lock (доки натиснено), Alt+Caps Lock виконує оригінальну функцію Caps Lock"
 
 #: rules/base.xml:6375
 msgid "Right Ctrl (while pressed)"
@@ -3777,9 +3769,7 @@ msgstr "Scroll Lock"
 
 #: rules/base.xml:6543
 msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
-msgstr ""
-"Ліва Ctrl+ліва Win (на першу розкладку), правий Ctrl+Menu (на другу "
-"розкладку)"
+msgstr "Ліва Ctrl+ліва Win (на першу розкладку), правий Ctrl+Menu (на другу розкладку)"
 
 #: rules/base.xml:6549
 msgid "Left Ctrl+Left Win"
@@ -3818,28 +3808,16 @@ msgid "&lt;Less/Greater&gt;"
 msgstr "&lt;Менше ніж/Більше ніж&gt;"
 
 #: rules/base.xml:6647
-msgid ""
-"Caps Lock; acts as onetime lock when pressed together with another 3rd-level "
-"chooser"
-msgstr ""
-"Caps Lock, одноразовий вибір регістру, якщо натиснути разом зі іншою "
-"комбінацією вибору 3-го рівня"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
+msgstr "Caps Lock, одноразовий вибір регістру, якщо натиснути разом зі іншою комбінацією вибору 3-го рівня"
 
 #: rules/base.xml:6653
-msgid ""
-"Backslash; acts as onetime lock when pressed together with another 3rd level "
-"chooser"
-msgstr ""
-"Зворотна похила риска, одноразовий вибір регістру, якщо натиснути разом зі "
-"іншою комбінацією вибору 3-го рівня"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "Зворотна похила риска, одноразовий вибір регістру, якщо натиснути разом зі іншою комбінацією вибору 3-го рівня"
 
 #: rules/base.xml:6659
-msgid ""
-"&lt;Less/Greater&gt;; acts as onetime lock when pressed together with "
-"another 3rd level chooser"
-msgstr ""
-"&lt;Менше/Більше&gt;, одноразовий вибір регістру, якщо натиснути разом зі "
-"іншою комбінацією вибору 3-го рівня"
+msgid "&lt;Less/Greater&gt;; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr "&lt;Менше/Більше&gt;, одноразовий вибір регістру, якщо натиснути разом зі іншою комбінацією вибору 3-го рівня"
 
 #: rules/base.xml:6667
 msgid "Ctrl position"
@@ -3895,8 +3873,7 @@ msgstr "Ліва Alt працює як Ctrl, ліва Ctrl — як Win, лів�
 
 #: rules/base.xml:6745
 msgid "Use keyboard LED to show alternative layout"
-msgstr ""
-"Використовувати клавіатурні індикатори для індикації альтернативних розкладок"
+msgstr "Використовувати клавіатурні індикатори для індикації альтернативних розкладок"
 
 #: rules/base.xml:6750
 msgid "Num Lock"
@@ -3923,12 +3900,8 @@ msgid "Unicode additions (arrows and math operators)"
 msgstr "Доповнення Unicode (стрілки та математичні оператори)"
 
 #: rules/base.xml:6800
-msgid ""
-"Unicode additions (arrows and math operators; math operators on default "
-"level)"
-msgstr ""
-"Доповнення Unicode (стрілки та математичні оператори; математичні оператори "
-"на типовому рівні)"
+msgid "Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Доповнення Unicode (стрілки та математичні оператори; математичні оператори на типовому рівні)"
 
 #: rules/base.xml:6806
 msgid "Legacy Wang 724"
@@ -3936,16 +3909,11 @@ msgstr "Стара Wang 724"
 
 #: rules/base.xml:6812
 msgid "Wang 724 keypad with Unicode additions (arrows and math operators)"
-msgstr ""
-"Клавіатура Wang 724 з доповненнями Unicode (стрілки та математичні оператори)"
+msgstr "Клавіатура Wang 724 з доповненнями Unicode (стрілки та математичні оператори)"
 
 #: rules/base.xml:6818
-msgid ""
-"Wang 724 keypad with Unicode additions (arrows and math operators; math "
-"operators on default level)"
-msgstr ""
-"Клавіатура Wang 724 з доповненнями Unicode (стрілки та математичні "
-"оператори). Математичні операції на типовому рівні"
+msgid "Wang 724 keypad with Unicode additions (arrows and math operators; math operators on default level)"
+msgstr "Клавіатура Wang 724 з доповненнями Unicode (стрілки та математичні оператори). Математичні операції на типовому рівні"
 
 #: rules/base.xml:6824
 msgid "Hexadecimal"
@@ -4000,13 +3968,11 @@ msgstr "Поведінка Caps Lock"
 
 #: rules/base.xml:6905
 msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
-msgstr ""
-"Caps Lock вмикає внутрішню капіталізацію. Shift призупиняє дію Caps Lock"
+msgstr "Caps Lock вмикає внутрішню капіталізацію. Shift призупиняє дію Caps Lock"
 
 #: rules/base.xml:6911
 msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
-msgstr ""
-"Caps Lock вмикає внутрішню капіталізацію. Shift не впливає на Caps Lock"
+msgstr "Caps Lock вмикає внутрішню капіталізацію. Shift не впливає на Caps Lock"
 
 #: rules/base.xml:6917
 msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
@@ -4033,12 +3999,8 @@ msgid "Make Caps Lock an additional Esc"
 msgstr "Caps Lock — додаткова клавіша Esc"
 
 #: rules/base.xml:6953
-msgid ""
-"Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves "
-"like regular Caps Lock"
-msgstr ""
-"Зробити незмінний Caps Lock додатковим Esc, але із використанням Shift + "
-"Caps Lock як звичайного Caps Lock"
+msgid "Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves like regular Caps Lock"
+msgstr "Зробити незмінний Caps Lock додатковим Esc, але із використанням Shift + Caps Lock як звичайного Caps Lock"
 
 #: rules/base.xml:6959
 msgid "Make Caps Lock an additional Backspace"
@@ -4177,12 +4139,8 @@ msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "За допомогою цифрової клавіатури вводяться лише цифри (як у Mac OS)"
 
 #: rules/base.xml:7219
-msgid ""
-"Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in "
-"Windows)"
-msgstr ""
-"Увімкнено Num Lock: цифри, Shift перемикає на стрілки, Num Lock вимкнено: "
-"клавіші зі стрілками (як у MS Windows)"
+msgid "Num Lock on: digits; Shift for arrow keys. Num Lock off: arrow keys (as in Windows)"
+msgstr "Увімкнено Num Lock: цифри, Shift перемикає на стрілки, Num Lock вимкнено: клавіші зі стрілками (як у MS Windows)"
 
 #: rules/base.xml:7225
 msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
@@ -4194,8 +4152,7 @@ msgstr "Сліпі клавіші (Ctrl+Alt+&lt;key&gt;) обробляютьс�
 
 #: rules/base.xml:7237
 msgid "Apple Aluminium: emulate PC keys (PrtSc, Scroll Lock, Pause, Num Lock)"
-msgstr ""
-"Apple Aluminium (емуляція клавіш ПК: PrtScr, Scroll Lock, Pause, Num Lock)"
+msgstr "Apple Aluminium (емуляція клавіш ПК: PrtScr, Scroll Lock, Pause, Num Lock)"
 
 #: rules/base.xml:7243
 msgid "Shift cancels Caps Lock"
@@ -4211,8 +4168,7 @@ msgstr "Обидві Shift разом перемикають стан Caps Lock"
 
 #: rules/base.xml:7261
 msgid "Both Shift together enable Caps Lock; one Shift key disables it"
-msgstr ""
-"Натискання обох клавіш Shift вмикають Caps Lock, одна клавіша Shift — вимикає"
+msgstr "Натискання обох клавіш Shift вмикають Caps Lock, одна клавіша Shift — вимикає"
 
 #: rules/base.xml:7267
 msgid "Both Shift together enable Shift Lock"
@@ -4267,36 +4223,20 @@ msgid "Right Alt chooses 5th level"
 msgstr "Права Alt вибирає 5-й рівень"
 
 #: rules/base.xml:7346
-msgid ""
-"&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed "
-"together with another 5th level chooser"
-msgstr ""
-"&lt;Менше/Більше&gt; вибирає 5-ій рівень, одноразовий вибір регістру, якщо "
-"натиснути разом зі іншою комбінацією вибору 5-го рівня"
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "&lt;Менше/Більше&gt; вибирає 5-ій рівень, одноразовий вибір регістру, якщо натиснути разом зі іншою комбінацією вибору 5-го рівня"
 
 #: rules/base.xml:7352
-msgid ""
-"Right Alt chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Права Alt вибирає 5-ий рівень, фіксується, якщо натиснути разом зі іншою "
-"комбінацією вибору 5-го рівня"
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Права Alt вибирає 5-ий рівень, фіксується, якщо натиснути разом зі іншою комбінацією вибору 5-го рівня"
 
 #: rules/base.xml:7358
-msgid ""
-"Left Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Ліва клавіша Win вибирає 5-ий рівень, одноразово фіксується, якщо натиснути "
-"разом зі іншою комбінацією вибору 5-го рівня"
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Ліва клавіша Win вибирає 5-ий рівень, одноразово фіксується, якщо натиснути разом зі іншою комбінацією вибору 5-го рівня"
 
 #: rules/base.xml:7364
-msgid ""
-"Right Win chooses 5th level; acts as onetime lock when pressed together with "
-"another 5th level chooser"
-msgstr ""
-"Права Win вибирає 5-ий рівень, фіксується, якщо натиснути разом зі іншою "
-"комбінацією вибору 5-го рівня"
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
+msgstr "Права Win вибирає 5-ий рівень, фіксується, якщо натиснути разом зі іншою комбінацією вибору 5-го рівня"
 
 #: rules/base.xml:7410
 msgid "Using space key to input non-breaking space"
@@ -4319,87 +4259,52 @@ msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "Символ нерозривного пробілу на 3-му рівні, нічого на 4-му"
 
 #: rules/base.xml:7439
-msgid ""
-"Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
-msgstr ""
-"Символ нерозривного пробілу на 3-му рівні, символ тонкого нерозривного "
-"пробілу на 4-му рівні"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Символ нерозривного пробілу на 3-му рівні, символ тонкого нерозривного пробілу на 4-му рівні"
 
 #: rules/base.xml:7445
 msgid "Non-breaking space at the 4th level"
 msgstr "Символ нерозривного пробілу на 4-му рівні"
 
 #: rules/base.xml:7451
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
-msgstr ""
-"Символ нерозривного пробілу на 4-му рівні, символ тонкого нерозривного "
-"пробілу на 6-му рівні"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgstr "Символ нерозривного пробілу на 4-му рівні, символ тонкого нерозривного пробілу на 6-му рівні"
 
 #: rules/base.xml:7457
-msgid ""
-"Non-breaking space at the 4th level, thin non-breaking space at the 6th "
-"level (via Ctrl+Shift)"
-msgstr ""
-"Символ нерозривного пробілу на 4-му рівні, символ тонкого нерозривного "
-"пробілу на 6-му рівні (з Ctrl+Shift)"
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr "Символ нерозривного пробілу на 4-му рівні, символ тонкого нерозривного пробілу на 6-му рівні (з Ctrl+Shift)"
 
 #: rules/base.xml:7463
 msgid "Zero-width non-joiner at the 2nd level"
 msgstr "Незв’язувальний символ нульової ширини на другому рівні"
 
 #: rules/base.xml:7469
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
-msgstr ""
-"Незв’язувальний символ нульової ширини на 2-му рівні, зв’язувальний символ "
-"нульової ширини на 3-му"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgstr "Незв’язувальний символ нульової ширини на 2-му рівні, зв’язувальний символ нульової ширини на 3-му"
 
 #: rules/base.xml:7475
-msgid ""
-"Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, "
-"non-breaking space at the 4th level"
-msgstr ""
-"Незв’язувальний символ нульової ширини на 2-му рівні, зв’язувальний символ "
-"нульової ширини на 3-му рівні, символ нерозривного пробілу на 4-му рівні"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr "Незв’язувальний символ нульової ширини на 2-му рівні, зв’язувальний символ нульової ширини на 3-му рівні, символ нерозривного пробілу на 4-му рівні"
 
 #: rules/base.xml:7481
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
-msgstr ""
-"Незв’язувальний символ нульової ширини на 2-му рівні, нерозривний пробіл на "
-"3-му рівні"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgstr "Незв’язувальний символ нульової ширини на 2-му рівні, нерозривний пробіл на 3-му рівні"
 
 #: rules/base.xml:7487
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"nothing at the 4th level"
-msgstr ""
-"Незв’язувальний символ нульової ширини на 2-му рівні, нерозривний пробіл на "
-"3-му рівні, нічого на 4-му рівні"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "Незв’язувальний символ нульової ширини на 2-му рівні, нерозривний пробіл на 3-му рівні, нічого на 4-му рівні"
 
 #: rules/base.xml:7493
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"zero-width joiner at the 4th level"
-msgstr ""
-"Незв’язувальний символ нульової ширини на 2-му рівні, символ нерозривного "
-"пробілу на 3-му рівні, зв’язувальний символ нульової ширини на 4-му"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Незв’язувальний символ нульової ширини на 2-му рівні, символ нерозривного пробілу на 3-му рівні, зв’язувальний символ нульової ширини на 4-му"
 
 #: rules/base.xml:7499
-msgid ""
-"Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, "
-"thin non-breaking space at the 4th level"
-msgstr ""
-"Незв’язувальний нульової ширини на 2-му рівні, нерозривний пробіл на 3-му "
-"рівні, вузький нерозривний пробіл на 4-му рівні"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr "Незв’язувальний нульової ширини на 2-му рівні, нерозривний пробіл на 3-му рівні, вузький нерозривний пробіл на 4-му рівні"
 
 #: rules/base.xml:7505
-msgid ""
-"Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
-msgstr ""
-"Незв’язувальний нульової ширини на 3-му рівні, зв’язувальний нульової ширини "
-"на 4-му"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgstr "Незв’язувальний нульової ширини на 3-му рівні, зв’язувальний нульової ширини на 4-му"
 
 #: rules/base.xml:7512
 msgid "Japanese keyboard options"
@@ -4659,14 +4564,11 @@ msgstr "Латвійська (Sun Type 6/7)"
 
 #: rules/base.extras.xml:347
 msgid "English (US, international AltGr Unicode combining)"
-msgstr ""
-"Англійська (США, інтернаціональна, введення Unicode за допомогою AltGr)"
+msgstr "Англійська (США, інтернаціональна, введення Unicode за допомогою AltGr)"
 
 #: rules/base.extras.xml:353
 msgid "English (US, international AltGr Unicode combining, alternative)"
-msgstr ""
-"Англійська (США, інтернаціональна, введення Unicode за допомогою AltGr, "
-"альтернативна)"
+msgstr "Англійська (США, інтернаціональна, введення Unicode за допомогою AltGr, альтернативна)"
 
 #: rules/base.extras.xml:359
 msgid "Atsina"
@@ -4718,8 +4620,7 @@ msgstr "Англійська (Carpalx, повна оптимізація, між
 
 #: rules/base.extras.xml:447
 msgid "English (Carpalx, full optimization, intl., with AltGr dead keys)"
-msgstr ""
-"Англійська (Carpalx, повна оптимізація, міжн. зі сліпими клавішами AltGr)"
+msgstr "Англійська (Carpalx, повна оптимізація, міжн. зі сліпими клавішами AltGr)"
 
 #: rules/base.extras.xml:453
 msgid "English (3l)"
@@ -4806,20 +4707,12 @@ msgid "Arabic (Sun Type 6/7)"
 msgstr "Арабська (Sun Type 6/7)"
 
 #: rules/base.extras.xml:747
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and European "
-"digits preferred)"
-msgstr ""
-"Арабська (із розширенням для запису арабською інших мов та перевагою "
-"європейських цифр)"
+msgid "Arabic (with extensions for Arabic-written other languages and European digits preferred)"
+msgstr "Арабська (із розширенням для запису арабською інших мов та перевагою європейських цифр)"
 
 #: rules/base.extras.xml:753
-msgid ""
-"Arabic (with extensions for Arabic-written other languages and Arabic digits "
-"preferred)"
-msgstr ""
-"Арабська (із розширенням для запису арабською інших мов та перевагою "
-"арабських цифр)"
+msgid "Arabic (with extensions for Arabic-written other languages and Arabic digits preferred)"
+msgstr "Арабська (із розширенням для запису арабською інших мов та перевагою арабських цифр)"
 
 #: rules/base.extras.xml:759
 msgid "Ugaritic instead of Arabic"
@@ -4883,9 +4776,7 @@ msgstr "Французька (Sun Type 6/7)"
 
 #: rules/base.extras.xml:921
 msgid "French (US, with French letters, with dead keys, alternative)"
-msgstr ""
-"Французька (США, з французькими літерами, зі сліпими клавішами, "
-"альтернативна)"
+msgstr "Французька (США, з французькими літерами, зі сліпими клавішами, альтернативна)"
 
 #: rules/base.extras.xml:927
 msgid "French (US, AZERTY)"
